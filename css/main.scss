@@ -6,6 +6,7 @@
 	--text-color-primary: white;
     --bg-color-primary: #25272a;
     --preffered-link-color: #927bd6;
+    --prefered-dark-color: #49317b;
 }
 
 img{width:100%;}
@@ -18,6 +19,8 @@ ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 @media all and (min-width:40em){
 .bg-blue-tile:after{position:absolute; top:0; left:0; right:0; bottom:0; content:" "; box-shadow:inset 0 0 100px 20px var(--preffered-link-color); z-index:1; pointer-events:none;}
 }
+
+.bg-preffered-tile { background-color: --preffered-link-color }
 
 .max-width-4{max-width:64em}
 .max-width-3{max-width:52em}
