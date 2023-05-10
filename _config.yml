@@ -1,7 +1,7 @@
 # Site settings
 title: Recipes
 email: 
-description: The Awesome recipe database
+description: The awesome recipe database
 baseurl: ""
 language: "en"
 lang_direction: "ltr"

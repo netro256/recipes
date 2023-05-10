@@ -3,6 +3,7 @@
 :root {
 	--text-color-primary: white;
 	--bg-color-primary: #25272a;
+  --preffered-link-color: #49317b;
 }
 
 body, button { margin: 0 }
@@ -988,7 +989,7 @@ body {
 }
 
 a {
-  color: #007FFF;
+  color: var(--preffered-link-color);
   text-decoration: none;
 }
 
@@ -1009,7 +1010,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #007FFF;
+  background-color: var(--preffered-link-color);
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1045,7 +1046,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #007FFF;
+  border-color: var(--preffered-link-color);
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 
@@ -1322,6 +1323,11 @@ input[type=range] {
 .gray, .mid-gray     { color: #aaa }
 .silver, .light-gray { color: #ddd }
 .white { color: #fff }
+
+.white-contrast {
+  color: #fff;
+  background-color: #00000080;
+}
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
