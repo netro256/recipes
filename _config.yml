@@ -5,14 +5,16 @@ description: The awesome recipe database
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
-colors:
-	primary-text-color: "#fff";
-  secondary-text-color: "#F0EB8D";
-	primary-bg-color: "#2D2727";
-  tile-color: "#8F43EE";
-  menu-color: "#413543";
 twitter_username: 
 github_username:  netro256
+
+### template colors, used site-wide via css ###
+colors:
+  primary-text-color: "#fff"
+  secondary-text-color: "#F0EB8D"
+	primary-bg-color: "#2D2727"
+  tile-color: "#8F43EE"
+  menu-color: "#413543"
 
 # Build settings
 markdown: kramdown
