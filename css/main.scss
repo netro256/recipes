@@ -1,13 +1,21 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 :root {
+{% for c in site.colors %}
+--primary-text-color: c[1];
+--secondary-text-color: c[1];
+--primary-bg-color: c[1];
+--tile-color: c[1];
+--menu-color: c[1];
+{% endfor %}
+  }
+/*:root {
 	--text-color-primary: white;
     --bg-color-primary: #25272a;
     --preffered-color: #927bd6;
     --preffered-dark-color: #49317b;
-}
+}*/
 
 img{width:100%;}
 .no-line-height{line-height:0;}
@@ -16,22 +24,22 @@ ul li{  padding:0 0 0 25px; position:relative;}
 ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 #tags ul{display: inline-block;}
 #tags li{display: inline-block; padding:15px 5px;}
-#tags a{padding:10px; position:relative; background-color:var(--preffered-color); color:var(--text-color-primary);}
-#tags a:hover{background-color:var(--preffered-dark-color)}
+#tags a{padding:10px; position:relative; background-color:var(--tile-color); color:var(--primary-text-color);}
+#tags a:hover{background-color:var(--menu-color)}
 
 .bg-blue-tile{background: #007ff0 url(../assets/tile.png); position:relative;}
 @media all and (min-width:40em){
-.bg-blue-tile:after{position:absolute; top:0; left:0; right:0; bottom:0; content:" "; box-shadow:inset 0 0 100px 20px var(--preffered-color); z-index:1; pointer-events:none;}
+.bg-blue-tile:after{position:absolute; top:0; left:0; right:0; bottom:0; content:" "; box-shadow:inset 0 0 100px 20px var(--tile-color); z-index:1; pointer-events:none;}
 }
 
-.bg-preffered-tile { background-color: var(--preffered-color) }
+.bg-preffered-tile { background-color: var(--tile-color) }
 
 .max-width-4{max-width:64em}
 .max-width-3{max-width:52em}
 .max-width-2{max-width:40em}
 
-.search input{border-radius:5px; border:2px solid #eee; box-shadow:0 0 14px rgba(var(--preffered-color),0.1); width:100%; padding:1.5rem; background-color:#424142; color:var(--text-color-primary)}
-.search input:focus{outline:none; border:2px solid var(--preffered-color);}
+.search input{border-radius:5px; border:2px solid #eee; box-shadow:0 0 14px rgba(var(--tile-color),0.1); width:100%; padding:1.5rem; background-color:#424142; color:var(--text-color-primary)}
+.search input:focus{outline:none; border:2px solid var(--tile-color);}
 .search{transition:.3s ease height; height:90vh; display:flex; flex-direction: column; justify-content:center;}
 .search input::placeholder{color:lightgrey;}
 
@@ -39,7 +47,7 @@ ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 .post h1{margin-top:6rem}
 .post ol, .post ul{}
 .post li{margin-bottom:1rem; padding:0 0 0 1rem;}
-.post li:before{content:"- "; position:absolute; left:0; color:var(--preffered-color)}
+.post li:before{content:"- "; position:absolute; left:0; color:var(--tile-color)}
 
 a .image{transition:.2s ease all; opacity:1;}
 a:hover .image{opacity:0.2;}
