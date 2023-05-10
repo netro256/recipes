@@ -1340,7 +1340,7 @@ input[type=range] {
   background-color: #00000080;
 }
 
-.preffered-color { color: --preffered-color }
+.preffered-color { color: var(--preffered-color) }
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
@@ -1362,7 +1362,7 @@ input[type=range] {
 .bg-silver, .bg-light-gray { background-color: #ddd }
 .bg-white  { background-color: #fff }
 
-.bg-preffered { background-color: --preffered-color }
+.bg-preffered { background-color: var(--preffered-color) }
 
 .bg-aqua  { background-color: #7fdbff }
 .bg-blue  { background-color: #007FFF }
