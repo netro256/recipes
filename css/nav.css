@@ -1,0 +1,23 @@
+:root {
+	--text-color-primary: white;
+	--text-color-secondary: #c6b5fa;
+	--bg-color-primary: #25272a;
+  --preffered-link-color: #927bd6;
+  --prefered-dark-color: #49317b;
+}
+
+nav {
+    z-index: 99;
+    top: 0px;
+}
+  
+.menu {
+    display: inline-flex;
+    font-size: 1.5rem;
+    background-color: var(--prefered-dark-color);
+    width:100%;
+}
+
+.menu a {
+    color: var(--text-color-primary);
+}
