@@ -1,12 +1,23 @@
 @import url('https://rsms.me/inter/inter-ui.css');
 
 :root {
-	--text-color-primary: white;
-	--bg-color-primary: #25272a;
-  --preffered-color: #927bd6;
-  --prefered-dark-color: #49317b;
+  {% for c in site.colors %}
+    --primary-text-color: c[1];
+    --secondary-text-color: c[1];
+	  --primary-bg-color: c[1];
+    --tile-color: c[1];
+    --menu-color: c[1];
+  {% endfor %}
 }
-
+/*
+:root {
+	--text-color-primary: white;
+	--bg-color-primary: #2D2727;
+  --preffered-color: #8F43EE;
+  --preffered-text-color: #F0EB8D;
+  --preffered-dark-color: #413543;
+}
+*/
 body, button { margin: 0 }
 
 button, input, select, textarea {
@@ -183,10 +194,15 @@ h4, .h4 { font-size: 1rem }
 h5, .h5 { font-size: .875rem }
 h6, .h6 { font-size: .75rem }
 
-.title { font-size: 1.5rem }
+.title { font-size: 1.3rem }
 
-@media (max-width: 300px) {
-  .title { font-size: 1.3rem }
+@media (min-width: 300px) {
+  .title { font-size: 1rem }
+  .p1 { padding: 0.1rem 0.5rem}
+}
+
+@media (min-width: 450px) {
+  .title { font-size: 1.5rem }
   .p1 { padding: 0.1rem 0.75rem}
 }
 
@@ -995,12 +1011,12 @@ h6, .h6 { font-size: .75rem }
 
 
 body {
-  color: var(--text-color-primary);
-  background-color: var(--bg-color-primary);
+  color: var(--primary-text-color);
+  background-color: var(--primary-bg-color);
 }
 
 a {
-  color: var(--preffered-color);
+  color: var(--secondary-text-color);
   text-decoration: none;
 }
 
@@ -1021,7 +1037,7 @@ hr {
 
 .button {
   color: white;
-  background-color: var(--preffered-color);
+  background-color: var(--secondary-text-color);
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1057,7 +1073,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: var(--preffered-color);
+  border-color: var(--tile-color);
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 
@@ -1340,7 +1356,7 @@ input[type=range] {
   background-color: #00000080;
 }
 
-.preffered-color { color: var(--preffered-color) }
+.preffered-color { color: var(--secondary-text-color) }
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
@@ -1362,7 +1378,7 @@ input[type=range] {
 .bg-silver, .bg-light-gray { background-color: #ddd }
 .bg-white  { background-color: #fff }
 
-.bg-preffered { background-color: var(--preffered-color) }
+.bg-preffered { background-color: var(--primary-bg-color) }
 
 .bg-aqua  { background-color: #7fdbff }
 .bg-blue  { background-color: #007FFF }
