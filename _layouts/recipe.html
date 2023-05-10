@@ -156,4 +156,53 @@ layout: default
 
   });
 
+  $('#edit').on('click', function() {
+    const path = "{{ page.path }}";
+    const title = "{{ page.title }}";
+    const image = "{{ page.image }}";
+    const servings = "{{ page.recipeYield }}";
+
+    let tags = "";
+    {% for tag in page.tags %}
+      tags += "{{ tag }} ";
+    {% endfor %}
+
+    let ingredients = [];
+    {% for ingredient in page.ingredients %}
+      ingredients.push("{{ingredient}}");
+    {% endfor %}
+
+    let directions = [];
+    {% for direction in page.directions %}
+      directions.push("{{direction}}");
+    {% endfor %}
+
+    let components = [];
+    {% if page.components %}
+    {% for component in page.components %}
+      components.push("{{component}}");
+    {% endfor %}
+    {% endif %}
+
+    const description = $('div[itemprop="description"]').text();
+
+    const json = JSON.stringify({
+      path: path,
+      title: title,
+      image: image,
+      tags: tags,
+      servings: servings,
+      ingredients: ingredients,
+      directions: directions,
+      components: components,
+      description: description,
+    });
+
+    localStorage.setItem("recipe", json);
+    window.location.href = "{{ site.baseurl }}/edit.html";
+  });
+  
 </script>
+
+<script src="{{ site.baseurl }}/js/scale_recipes.js"></script>
+<!-- Thank you to https://github.com/PhilipNelson5 for the awesome script! -->
