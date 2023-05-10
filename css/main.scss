@@ -3,7 +3,7 @@
 ---
 :root {
 {% for c in site.colors %}
---c[0]: c[1];
+--{{c[0]}}: {{c[1]}};
 {% endfor %}
 }
 
