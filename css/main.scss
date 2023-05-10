@@ -1,6 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+// Pull colors from config to put in CSS
 :root {
 {% for c in site.colors %}
 --{{c[0]}}: {{c[1]}};

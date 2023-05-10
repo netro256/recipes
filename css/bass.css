@@ -194,7 +194,7 @@ h6, .h6 { font-size: .75rem }
 
 .select-scale:before {
   content: 'Scale';
-  color: var(--text-color-primary);
+  color: var(--primary-text-color-);
   font-size: 1rem;
 }
 
