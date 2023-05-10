@@ -14,7 +14,7 @@ colors:
   primary-text-color: "#fff"
   secondary-text-color: "#F0EB8D"
   primary-bg-color: "#2D2727"
-  tile-color: "#8F43EE"
+  tile-color: "#5D3891"
   menu-color: "#413543"
 
 # Build settings

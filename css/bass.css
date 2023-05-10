@@ -1,15 +1,5 @@
 @import url('https://rsms.me/inter/inter-ui.css');
 
-
-/*
-:root {
-	--text-color-primary: white;
-	--bg-color-primary: #2D2727;
-  --preffered-color: #8F43EE;
-  --preffered-text-color: #F0EB8D;
-  --preffered-dark-color: #413543;
-}
-*/
 body, button { margin: 0 }
 
 button, input, select, textarea {
