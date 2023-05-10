@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="{{ "/css/nav.css" | prepend: site.baseurl }}">
 <nav role="navigation">    
     <ul id="menu">
-      <a href="{{ site.baseurl }}/"><li><i class="fa fa-home fa-lg"></i> Home</li></a>
-      <a href="{{ site.baseurl }}/search"><li><i class="fa fa-search fa-lg"></i> Search</li></a>
-      <a href="{{ site.baseurl }}/tags"><li><i class="fa fa-tags fa-lg"></i> Tags</li></a>
+      <a href="{{ site.baseurl }}/"><li><i class="fa fa-home fa-lg"></i> {{ site.translation[site.language].home }}</li></a>
+      <a href="{{ "/search" | prepend: site.baseurl}}"><li><i class="fa fa-search fa-lg"></i> {{ site.translation[site.language].search }}</li></a>
+      <a href="{{ "/category" | prepend: site.baseurl}}"><li><i class="fa fa-tags fa-lg"></i> {{ site.translation[site.language].category }}</li></a>
       <!-- <a href="{{ site.baseurl }}/components"><li><i class="fa fa-puzzle-piece fa-lg"></i> Components</li></a> -->
     </ul>
 </nav>

@@ -33,7 +33,7 @@ translation:
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
-    tags: "Tags"
+    home: "Home"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -44,4 +44,4 @@ translation:
     search: "Suche"
     blog: "Blog"
     subscribe: "Abonnieren"
-    tags: "Tags"
+    home: "Home"
