@@ -6,7 +6,7 @@
 	--text-color-primary: white;
     --bg-color-primary: #25272a;
     --preffered-color: #927bd6;
-    --prefered-dark-color: #49317b;
+    --preffered-dark-color: #49317b;
 }
 
 img{width:100%;}
@@ -16,7 +16,8 @@ ul li{  padding:0 0 0 25px; position:relative;}
 ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 #tags ul{display: inline-block;}
 #tags li{display: inline-block; padding:15px 5px;}
-#tags a{  padding:10px; position:relative; background-color:var(--preffered-color); color:var(--text-color-primary);}
+#tags a{padding:10px; position:relative; background-color:var(--preffered-color); color:var(--text-color-primary);}
+#tags a:hover{background-color:var(--preffered-dark-color)}
 
 .bg-blue-tile{background: #007ff0 url(../assets/tile.png); position:relative;}
 @media all and (min-width:40em){
