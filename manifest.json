@@ -19,7 +19,7 @@ layout: none
             "purpose": "maskable"
         }
     ],
-    "theme_color": "{{ site.color.tile-color }}",
+    "theme_color": "{{ site.colors.tile-color }}",
     "background_color": "{{ site.colors.primary-bg-color }}",
     "start_url": "site.start_url",
     "display": "standalone"

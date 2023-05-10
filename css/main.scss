@@ -3,13 +3,19 @@
 ---
 :root {
 {% for c in site.colors %}
+c[0]: c[1];
+{% endfor %}
+}
+
+/*:root {
+{% for c in site.colors %}
 --primary-text-color: c.primary-text-color;
 --secondary-text-color: c.secondary-text-color;
 --primary-bg-color: c.primary-bg-color;
 --tile-color: c.tile-color;
 --menu-color: c.menu-color;
 {% endfor %}
-  }
+  }*/
 /*:root {
 	--text-color-primary: white;
     --bg-color-primary: #25272a;
