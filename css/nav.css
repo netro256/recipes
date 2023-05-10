@@ -12,12 +12,6 @@ nav {
     padding: 2px 0;
 }
 
-#menu a {
-    color: var(--primary-text-color-);
-    text-align: center;
-    padding: 0 1rem;
-}
-
 @media (min-width: 550px) {
     #menu {
         font-size: 1.5rem;
@@ -25,3 +19,25 @@ nav {
     }
 }
 
+#menu a {
+    color: var(--primary-text-color-);
+    text-align: center;
+    padding: 0;
+}
+
+@media (min-width: 240px) {
+    #menu a {
+        padding: 0 1rem;
+    }
+}
+
+@media (min-width: 450px) {
+    #menu a {
+        padding: 0 1rem;
+    }
+}
+
+#menu li {
+    padding: 0;
+    position: relative;
+}

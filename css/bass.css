@@ -218,6 +218,12 @@ h6, .h6 { font-size: .75rem }
 }
 .clearfix:after { clear: both }
 
+@media (max-width: 250px) {
+  .clearfix h1{
+    font-size: 1.2rem;
+  }
+}
+
 .left  { float: left }
 .right { float: right }
 
