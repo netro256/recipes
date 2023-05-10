@@ -13,25 +13,25 @@ nav {
 }
 
 nav {
-    padding: 10px 0;
+    padding: 0;
 }
 
 @media (min-width: 300px) {
     nav {
-        padding: 0;
+        padding: 10px 0;
     }
 }
   
 #menu {
     display: inline-flex;
-    font-size: 1.5rem;
+    font-size: 1rem;
     background-color: var(--prefered-dark-color);
     width:100%;
 }
 
 @media (min-width: 300px) {
     #menu {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 }
 
