@@ -12,6 +12,20 @@ nav {
     padding: 2px 0;
 }
 
+@media (min-width: 30px) {
+    #menu {
+        font-size: 1.2rem;
+        padding: 10px 0;
+    }
+}
+
+@media (min-width: 450px) {
+    #menu {
+        font-size: 1.4rem;
+        padding: 10px 0;
+    }
+}
+
 @media (min-width: 550px) {
     #menu {
         font-size: 1.5rem;
