@@ -11,27 +11,19 @@ nav {
     top: 0px;
     position: sticky;
 }
-
-nav {
-    padding: 0;
-}
-
-@media (min-width: 300px) {
-    nav {
-        padding: 10px 0;
-    }
-}
   
 #menu {
     display: inline-flex;
     font-size: 1rem;
     background-color: var(--prefered-dark-color);
     width:100%;
+    padding: 0;
 }
 
 @media (min-width: 300px) {
     #menu {
         font-size: 1.5rem;
+        padding: 10px 0;
     }
 }
 
