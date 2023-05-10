@@ -3,7 +3,8 @@
 :root {
 	--text-color-primary: white;
 	--bg-color-primary: #25272a;
-  --preffered-link-color: #49317b;
+  --preffered-link-color: #927bd6;
+  --prefered-dark-color: #49317b;
 }
 
 body, button { margin: 0 }
