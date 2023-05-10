@@ -2,6 +2,7 @@
 title: Recipes
 email: 
 description: The awesome recipe database
+start_url: "https://recipes.pintsizedcrafts.com"
 baseurl: ""
 language: "en"
 lang_direction: "ltr"

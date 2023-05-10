@@ -19,8 +19,8 @@ layout: none
             "purpose": "maskable"
         }
     ],
-    "theme_color": "{{ site.color }}",
-    "background_color": "{{ site.color }}",
-    "start_url": "https://chowdown.io",
+    "theme_color": "{{ site.color.tile-color }}",
+    "background_color": "{{ site.colors.primary-bg-color }}",
+    "start_url": "site.start_url",
     "display": "standalone"
 }

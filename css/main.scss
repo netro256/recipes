@@ -3,11 +3,11 @@
 ---
 :root {
 {% for c in site.colors %}
---primary-text-color: c[1];
---secondary-text-color: c[1];
---primary-bg-color: c[1];
---tile-color: c[1];
---menu-color: c[1];
+--primary-text-color: c.primary-text-color;
+--secondary-text-color: c.secondary-text-color;
+--primary-bg-color: c.primary-bg-color;
+--tile-color: c.tile-color;
+--menu-color: c.menu-color;
 {% endfor %}
   }
 /*:root {
