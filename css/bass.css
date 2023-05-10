@@ -2,9 +2,8 @@
 
 :root {
 	--text-color-primary: white;
-	--text-color-secondary: #c6b5fa;
 	--bg-color-primary: #25272a;
-  --preffered-link-color: #927bd6;
+  --preffered-color: #927bd6;
   --prefered-dark-color: #49317b;
 }
 
@@ -148,11 +147,6 @@ p, dl, ol, ul {
   margin-bottom: 1rem;
 }
 
-.tags a {
-  color: var(--text-color-secondary);
-  text-decoration: underline;
-}
-
 pre, code, samp {
   font-family: 'Source Code Pro', Consolas, monospace;
   font-size: inherit;
@@ -194,6 +188,16 @@ h6, .h6 { font-size: .75rem }
 @media (max-width: 300px) {
   .title { font-size: 1.3rem }
   .p1 { padding: 0.1rem 0.75rem}
+}
+
+.select-scale {
+  display: inline;
+}
+
+.select-scale:before {
+  content: 'Scale';
+  color: var(--text-color-primary);
+  font-size: 1rem;
 }
 
 .list-reset {
@@ -996,7 +1000,7 @@ body {
 }
 
 a {
-  color: var(--preffered-link-color);
+  color: var(--preffered-color);
   text-decoration: none;
 }
 
@@ -1017,7 +1021,7 @@ hr {
 
 .button {
   color: white;
-  background-color: var(--preffered-link-color);
+  background-color: var(--preffered-color);
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1053,7 +1057,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: var(--preffered-link-color);
+  border-color: var(--preffered-color);
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 
@@ -1336,6 +1340,8 @@ input[type=range] {
   background-color: #00000080;
 }
 
+.preffered-color { color: --preffered-color }
+
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
 .navy  { color: #001f3f }
@@ -1356,7 +1362,7 @@ input[type=range] {
 .bg-silver, .bg-light-gray { background-color: #ddd }
 .bg-white  { background-color: #fff }
 
-.bg-preffered { background-color: --preffered-link-color }
+.bg-preffered { background-color: --preffered-color }
 
 .bg-aqua  { background-color: #7fdbff }
 .bg-blue  { background-color: #007FFF }

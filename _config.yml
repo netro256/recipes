@@ -5,7 +5,7 @@ description: The awesome recipe database
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
-color: "#49317b" #"#007FFF"
+color: "#49317b" # You'll need to change this in all 3 files in the /css directory (--preffered-color)
 twitter_username: 
 github_username:  netro256
 
@@ -34,6 +34,7 @@ translation:
     blog: "Blog"
     subscribe: "Subscribe"
     home: "Home"
+    tips: "Tips"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -45,3 +46,4 @@ translation:
     blog: "Blog"
     subscribe: "Abonnieren"
     home: "Home"
+    tips: "Tips"

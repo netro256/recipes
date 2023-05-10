@@ -2,7 +2,7 @@
     --text-color-primary: white;
     --text-color-secondary: #c6b5fa;
     --bg-color-primary: #25272a;
-    --preffered-link-color: #927bd6;
+    --preffered-color: #927bd6;
     --prefered-dark-color: #49317b;
 }
 
@@ -20,7 +20,7 @@ nav {
     padding: 0;
 }
 
-@media (min-width: 300px) {
+@media (min-width: 450px) {
     #menu {
         font-size: 1.5rem;
         padding: 10px 0;

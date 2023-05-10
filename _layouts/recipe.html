@@ -40,7 +40,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h3>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
@@ -50,11 +50,11 @@ layout: default
       {% endif %}
 
 	  {% if page.recipeYield %}
-      <h4 class="blue mt0 mb2 xs-center">Yield</h4>
+      <h3 class="preffered-color mt0 mb2 xs-center">Yield</h3>
       <div class="mt0 mb2 xs-center" itemprop="yield">{{page.recipeYield}}</div>
       {% endif %}
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h3>
       <div id='scaleSelect' , align="left" , class="select-scale">
         <select name="selectRecipeScale" , onchange="liveScaleRecipe.call(this, event)">
           <option value=0.5>&frac12;</option>
@@ -75,7 +75,7 @@ layout: default
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h3>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
         <li>{{ direction | markdownify }}</li>
@@ -98,7 +98,7 @@ layout: default
     <div class="sm-col sm-col-4 px2">
     {% for recipe in site.components %}
     {% if recipe.title == component %}
-      <h4 class="blue center">{{recipe.title}}</h4>
+      <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
       <div class="image ratio bg-cover" style="background-image:url({{site.baseurl}}/images/{{ image }});">
@@ -113,14 +113,14 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].ingredients }}</h3>
         <ul class="ingredients" itemprop="ingredients">
         {% for item in recipe.ingredients %}
         <li itemprop="ingredient">{{ item | markdownify }}</li>
         {% endfor %}
       </ul>
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].directions }}</h3>
         <ul itemprop="instructions">
         {% for item in recipe.directions %}
         <li>{{ item | markdownify }}</li>
