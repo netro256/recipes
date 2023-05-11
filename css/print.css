@@ -478,7 +478,8 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     .footer,
     .footer p,
     .footer a,
-    img {
+    img,
+    .geomicon {
     display: none !important;
     height: 1px !important;
     }
