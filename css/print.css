@@ -69,7 +69,7 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     }
 
     p {
-    font-size: 12pt;
+    font-size: 10pt;
     }
 
     a,
@@ -101,7 +101,7 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     img {
     border: 0;
     display: block;
-    max-width: 40% !important;
+    max-height: 30pt !important;
     vertical-align: middle;
     }
 
@@ -251,7 +251,7 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     .md-col-6,
     .lg-col-6,
     .xl-col-6 {
-        width: 50%;
+        width: 45%;
     }
     .col-7,
     .xs-col-7,
