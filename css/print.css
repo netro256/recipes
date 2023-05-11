@@ -189,7 +189,8 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     .fa,
     .footer,
     .footer p,
-    .footer a,{
+    .footer a,
+    img {
     display: none !important;
     height: 1px !important;
     }
