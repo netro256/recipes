@@ -5,7 +5,7 @@ title:  "Phở-style noodle soup"
 image: pho-noodle-soup.jpg
 tags: mains, soups
 
-yield: 4
+yield: 4 servings
 
 preparation_time: 15 minutes
 cooking_time: 35 minutes

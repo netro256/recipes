@@ -49,16 +49,16 @@ layout: default
       </ul>
       {% endif %}
 
-	    {% if page.recipeYield %}
-      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].yield }}</h3>
-      <div class="mt0 mb2 xs-center" itemprop="yield">{{page.recipeYield}}</div>
+	    {% if page.yield %}
+      <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].yield }}</h4>
+      <div class="mt0 mb2 xs-center" itemprop="yield">{{page.yield}}</div>
       {% endif %}
       {% if page.preparation_time %}
-      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].preparation_time }}</h3>
+      <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].preparation_time }}</h4>
       <div class="mt0 mb2 xs-center" itemprop="preparation_time">{{page.preparation_time}}</div>
       {% endif %}
       {% if page.cooking_time %}
-      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].cooking_time }}</h3>
+      <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].cooking_time }}</h4>
       <div class="mt0 mb2 xs-center" itemprop="cooking_time">{{page.cooking_time}}</div>
       {% endif %}
       {% if page.ingredients %}
@@ -145,7 +145,7 @@ layout: default
 <!-- end components -->
 
 <!-- check if there are notes -->
-  {% if page.recipeYield %}
+  {% if page.notes %}
     <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].notes }}</h3>
     <ul itemprop="recipeNotes">
       {% for note in page.notes %}
@@ -192,7 +192,9 @@ layout: default
     const path = "{{ page.path }}";
     const title = "{{ page.title }}";
     const image = "{{ page.image }}";
-    const servings = "{{ page.recipeYield }}";
+    const servings = "{{ page.yield }}";
+    const preparation_time = "{{ page.preparation_time }}";
+    const cooking_time = "{{ page.cooking_time }}";
 
     let tags = "";
     {% for tag in page.tags %}
@@ -217,11 +219,9 @@ layout: default
     {% endif %}
 
     let notes = [];
-    {% if page.notes %}
     {% for notes in page.notes %}
     notes.push("{{note}}");
     {% endfor %}
-    {% endif %}
 
     const description = $('div[itemprop="description"]').text();
 
@@ -231,6 +231,8 @@ layout: default
       image: image,
       tags: tags,
       servings: servings,
+      preparation_time: preparation_time,
+      cooking_time: cooking_time,
       ingredients: ingredients,
       directions: directions,
       components: components,

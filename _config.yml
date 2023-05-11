@@ -45,7 +45,8 @@ translation:
     tips: "Tips"
     notes: "Notes"
     yield: "Servings"
-    preparation_time: "Preparation Time"
+    preparation_time: "Prep Time"
+    cooking_time: "Cooking Time"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -60,3 +61,5 @@ translation:
     tips: "Tips"
     notes: "Notes"
     yield: "Yield"
+      preparation_time: "Preparation Time"
+    cooking_time: "Cooking Time"
