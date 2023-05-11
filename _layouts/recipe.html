@@ -146,13 +146,15 @@ layout: default
 
 <!-- check if there are notes -->
   {% if page.notes %}
-    <div class="sm-col sm-col-12 lg-col-12 px2 mt3 clearfix">
-      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].notes }}</h3>
-      <ul itemprop="notes">
-        {% for note in page.notes %}
-        <li>{{ note | markdownify }}</li>
-        {% endfor %}
-      </ul>
+    <div class=" mt3 clearfix">
+        <div class="sm-col sm-col-12 lg-col-12">
+        <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].notes }}</h3>
+        <ul itemprop="notes">
+          {% for note in page.notes %}
+          <li>{{ note | markdownify }}</li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   {% endif %}
 <!-- end notes -->
