@@ -61,5 +61,5 @@ translation:
     tips: "Tips"
     notes: "Notes"
     yield: "Yield"
-      preparation_time: "Preparation Time"
+    preparation_time: "Preparation Time"
     cooking_time: "Cooking Time"
