@@ -6,23 +6,30 @@ image: banana-bread.jpg
 imagecredit: https://flic.kr/p/7HZmzn
 tags: breakfast, baking
 
+yield: 6 servings
+preptime: 10 minutes
+cooktime: 60 minutes
+
 ingredients:
-- 4 bananas
+- 1 cup of mashed bananas
+- 1/2 cup flour
+- 1 tsp baking soda
+- 1/2 tsp salt
 - 1/2 cup butter
-- 1/2 cup sugar
+- 1 cup sugar
 - 2 eggs
-- 2 cups flour
-- 1/2 tsp baking soda
-- 1 tsp baking powder
-- pinch salt
-- 1/4 cup nuts (we like pecans)
+- 1 tsp vanilla
 
 directions:
-- Beat the eggs, then cream with the butter and sugar
-- Mix in bananas, then flour, baking soda/powder, salt, and nuts
-- Add to greased and floured pan
-- Bake until brown/cracked, toothpick comes out clean
+- Mix the butter(softened) and sugar together.
+- Add eggs and vanilla. Mix.
+- Add mashed bananas. Mix
+- Add baking soda, salt, and sour cream. Mix.
+- Add flour. Mix until everything is incorperated.
+- Pour into greased loaf pan.
+- Bake at 350°F for 1 hour.
+- Test center with a toothpick. If it comes out clean then the bread is done.
 
 ---
 
-From Angie's mom
+Nicole's original banana bread recipe

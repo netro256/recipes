@@ -45,18 +45,18 @@ layout: default
       {% endif %}
     </div>
     <div class="sm-col sm-col-4 lg-col-4">
-      {% if page.preparation_time %}
-        <div class="mt0 mb1 xs-center" itemprop="preparation_time">
-          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].preparation_time }}</h4>
-          <p class="inline">{{page.preparation_time}}</p>
+      {% if page.preptime %}
+        <div class="mt0 mb1 xs-center" itemprop="preptime">
+          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].preptime }}</h4>
+          <p class="inline">{{page.preptime}}</p>
         </div>
       {% endif %}
     </div>
     <div class="sm-col sm-col-4 lg-col-4">
-      {% if page.cooking_time %}
-        <div class="mt0 mb2 xs-center" itemprop="cooking_time">
-          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].cooking_time }}</h4>
-          <p class="inline">{{page.cooking_time}}</p>
+      {% if page.cooktime %}
+        <div class="mt0 mb2 xs-center" itemprop="cooktime">
+          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].cooktime }}</h4>
+          <p class="inline">{{page.cooktime}}</p>
         </div>
       {% endif %}
     </div>
@@ -215,8 +215,8 @@ layout: default
     const title = "{{ page.title }}";
     const image = "{{ page.image }}";
     const servings = "{{ page.yield }}";
-    const preparation_time = "{{ page.preparation_time }}";
-    const cooking_time = "{{ page.cooking_time }}";
+    const preptime = "{{ page.preptime }}";
+    const cooktime = "{{ page.cooktime }}";
 
     let tags = "";
     {% for tag in page.tags %}
@@ -253,8 +253,8 @@ layout: default
       image: image,
       tags: tags,
       servings: servings,
-      preparation_time: preparation_time,
-      cooking_time: cooking_time,
+      preptime: preptime,
+      cooktime: cooktime,
       ingredients: ingredients,
       directions: directions,
       components: components,
