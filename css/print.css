@@ -4,6 +4,13 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
 
 @media print {
 
+    :root{
+    --primary-text-color: #000;
+    --secondry-text-color: #000;
+    --priary-bg-color: #fff;
+    --tile-color: #fff;
+    }
+
     [hidden] {
     display: none;
     }

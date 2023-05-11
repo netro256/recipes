@@ -9,7 +9,7 @@ lang_direction: "ltr"
 twitter_username: 
 github_username:  netro256
 
-### template colors, used site-wide via css ###
+# Template colors used site-wide via css
 colors:
   primary-text-color: "#fff"
   secondary-text-color: "#F0EB8D"
