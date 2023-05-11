@@ -35,35 +35,35 @@ layout: default
   </div>
 
   <!-- list yield, prep time, and cook time-->
-  <div class="clearfix mt3">
-    <div class="sm-col-4 lg-col-4">
+  <div class="clearfix mt2">
+    <div class="sm-col sm-col-4 lg-col-4">
       {% if page.yield %}
         <div class="mt0 mb1 xs-center" itemprop="yield">
-          <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].yield }}</h4>
-          <p>{{page.yield}}</p>
+          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].yield }}</h4>
+          <p class="inline">{{page.yield}}</p>
         </div>
       {% endif %}
     </div>
-    <div class="sm-col-4 lg-col-4">
+    <div class="sm-col sm-col-4 lg-col-4">
       {% if page.preparation_time %}
         <div class="mt0 mb1 xs-center" itemprop="preparation_time">
-          <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].preparation_time }}</h4>
-          <p>{{page.preparation_time}}</p>
+          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].preparation_time }}</h4>
+          <p class="inline">{{page.preparation_time}}</p>
         </div>
       {% endif %}
     </div>
-    <div class="sm-col-4 lg-col-4">
+    <div class="sm-col sm-col-4 lg-col-4">
       {% if page.cooking_time %}
         <div class="mt0 mb2 xs-center" itemprop="cooking_time">
-          <h4 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].cooking_time }}</h4>
-          <p>{{page.cooking_time}}</p>
+          <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].cooking_time }}</h4>
+          <p class="inline">{{page.cooking_time}}</p>
         </div>
       {% endif %}
     </div>
   </div>
 
   <!-- call up recipe and directions -->
-  <div class="clearfix mt3">
+  <div class="clearfix mt1">
 
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
