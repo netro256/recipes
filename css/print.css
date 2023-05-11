@@ -176,8 +176,13 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     /* Completely hide the following elements on print*/
 
     nav,
-    #menu, 
-    #menu a,
+    nav ul,
+    nav a,
+    nav li,
+    nav ul a,
+    nav ul li,
+    nav i,
+    .fa,
     .footer,
     .footer p,
     .footer a,{
