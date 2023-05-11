@@ -519,6 +519,10 @@ PRINT STYLES from https://github.com/mmistakes/minimal-mistakes/blob/master/_sas
     .md-px4,
     .lg-px4 { padding-left: 4rem; padding-right: 4rem }
 
+    p, dl, ol, ul {
+    margin: 0;
+    }
+
     /* Completely hide the following elements on print*/
 
     nav,
