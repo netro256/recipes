@@ -43,6 +43,9 @@ translation:
     subscribe: "Subscribe"
     home: "Home"
     tips: "Tips"
+    notes: "Notes"
+    yield: "Servings"
+    preparation_time: "Preparation Time"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -55,3 +58,5 @@ translation:
     subscribe: "Abonnieren"
     home: "Home"
     tips: "Tips"
+    notes: "Notes"
+    yield: "Yield"

@@ -49,9 +49,17 @@ layout: default
       </ul>
       {% endif %}
 
-	  {% if page.recipeYield %}
-      <h3 class="preffered-color mt0 mb2 xs-center">Yield</h3>
+	    {% if page.recipeYield %}
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].yield }}</h3>
       <div class="mt0 mb2 xs-center" itemprop="yield">{{page.recipeYield}}</div>
+      {% endif %}
+      {% if page.preparation_time %}
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].preparation_time }}</h3>
+      <div class="mt0 mb2 xs-center" itemprop="preparation_time">{{page.preparation_time}}</div>
+      {% endif %}
+      {% if page.cooking_time %}
+      <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].cooking_time }}</h3>
+      <div class="mt0 mb2 xs-center" itemprop="cooking_time">{{page.cooking_time}}</div>
       {% endif %}
       {% if page.ingredients %}
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h3>
@@ -136,6 +144,17 @@ layout: default
   {% endif %}
 <!-- end components -->
 
+<!-- check if there are notes -->
+  {% if page.recipeYield %}
+    <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].notes }}</h3>
+    <ul itemprop="recipeNotes">
+      {% for note in page.notes %}
+      <li>{{ note | markdownify }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+<!-- end notes -->
+
   {% for category in page.categories %}
     <p class="clearfix">{{ site.translation[site.language].category }}: <span itemprop="recipeCategory">{{ category }}</span></p>
   {% endfor %}
@@ -197,6 +216,13 @@ layout: default
     {% endfor %}
     {% endif %}
 
+    let notes = [];
+    {% if page.notes %}
+    {% for notes in page.notes %}
+    notes.push("{{note}}");
+    {% endfor %}
+    {% endif %}
+
     const description = $('div[itemprop="description"]').text();
 
     const json = JSON.stringify({
@@ -208,6 +234,7 @@ layout: default
       ingredients: ingredients,
       directions: directions,
       components: components,
+      notes: notes,
       description: description,
     });
 
