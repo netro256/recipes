@@ -175,8 +175,8 @@ layout: default
   return this.on("click", cb);
   };
 
-  $("ul li .container").append('<input type="checkbox">');
-  $("ul li .container").clickToggle(function(){
+  $(".container ul li").append('<input type="checkbox">');
+  $(".container ul li").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
     var y = $(window).scrollTop();
