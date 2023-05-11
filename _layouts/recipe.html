@@ -37,7 +37,7 @@ layout: default
   <!-- call up recipe and directions -->
   <div class="clearfix mt3">
 
-    <div class="sm-col sm-col-5 lg-col-5">
+    <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h3>
@@ -82,7 +82,7 @@ layout: default
 
     </div>
 
-    <div class="sm-col sm-col-5 lg-col-5">
+    <div class="sm-col sm-col-6 lg-col-6">
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h3>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
@@ -146,7 +146,7 @@ layout: default
 
 <!-- check if there are notes -->
   {% if page.notes %}
-    <div class="sm-col sm-col-11 lg-col-11 px2 mt3 clearfix">
+    <div class="sm-col sm-col-12 lg-col-12 px2 mt3 clearfix">
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].notes }}</h3>
       <ul itemprop="notes">
         {% for note in page.notes %}
