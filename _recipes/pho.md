@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Phở-style noodle soup"
+title:  "Phở-style Noodle Soup"
 image: pho-noodle-soup.jpg
 imagecredit: https://cudenver.campuswell.com/ucookbook-simple-pho-style-soup/#1603474762922-2f49e55e-7c99
 tags: mains, soups

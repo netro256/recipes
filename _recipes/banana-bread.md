@@ -30,6 +30,8 @@ directions:
 - Bake at 350°F for 1 hour.
 - Test center with a toothpick. If it comes out clean then the bread is done.
 
+notes:
+
 ---
 
 Nicole's original banana bread recipe
