@@ -11,12 +11,12 @@ preparation_time: 3 hours, 15 minutes
 cooking_time: 14 minutes
 
 ingredients:
-- 1 cup unsalted butter, softened to room temperature
+- 1 cup unsalted butter (softened to room temperature)
 - 2/3 cup granulated sugar
 - 1 tsp pure vanilla extract
 - 1/2 tsp almond extract
 - 1/4 tsp salt
-- 2 1/4 cups all-purpose flour (spoon & leveled)
+- 2 1/4 cups all-purpose flour (spoon and leveled)
 - 1/2 cup raspberry jam (or other jam, see notes below)
 
 directions:
