@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Cake Pops"
 image: cake-pops.jpg
-imagecredit: 
+imagecredit: https://i.pinimg.com/originals/72/28/bd/7228bdc29d4d34b8e0c502df9d94a7da.jpg
 tags: dessert, cake
 
 yield: 24 cake pops (depending on size)
@@ -27,13 +27,13 @@ directions:
 - If adding toppings, immediately cover with sprinkles or topping of choice, then transfer to craft foam. Repeat with remaining cake pops. Chill until set, about 10 to 15 minutes.
 
 notes:
-- **Small cake pops:** 1 tablespoon-sized cake balls (each about 1 1/4 inch diameter) makes about 48 cake pops.
+- "Small cake pops: 1 tablespoon-sized cake balls (each about 1 1/4 inch diameter) makes about 48 cake pops."
 
-- **Medium cake pops:** 2 tablespoons-sized cake balls (each about 1 1/2 inch diameter) makes about 24 cake pops.
+- "Medium cake pops: 2 tablespoons-sized cake balls (each about 1 1/2 inch diameter) makes about 24 cake pops."
 
-- **Large cake pops:** 3 tablespoons-sized cake balls (each about 1 3/4 inch diameter) makes about 16 cake pops.
+- "Large cake pops: 3 tablespoons-sized cake balls (each about 1 3/4 inch diameter) makes about 16 cake pops."
 
-- **Dipping cake pops:** Use a tall and deep bowl or cup, like the Ceramic Candy Melting Bowls, to dip your cake pops in Candy Melts. This way the pops can be completely submerged.
+- "Dipping cake pops: Use a tall and deep bowl or cup, like the Ceramic Candy Melting Bowls, to dip your cake pops in Candy Melts. This way the pops can be completely submerged."
 
 - Dipped cake pops decorated with Candy Melts candy can be stored at room temperature for a week. If you used melted chocolate or white chocolate to dip or decorate your cake pops, store them in the fridge so the chocolate doesn’t melt.
 

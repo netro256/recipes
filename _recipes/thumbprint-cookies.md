@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Thumbprint Cookies"
 image: thumbprint-cookies.jpg
-imagecredit: 
+imagecredit: https://sallysbakingaddiction.com/raspberry-almond-thumbprint-cookies/
 tags: baking, cookies, dessert
 
 yield: 26 cookies

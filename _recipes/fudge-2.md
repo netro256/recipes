@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Fudge (easy)"
 image: fudge-2.jpg
-imagecredit: 
+imagecredit: https://www.thisisnotdietfood.com/easy-chocolate-peanut-butter-fudge/
 tags: dessert, chocolate
 
 yield: 20 servings
