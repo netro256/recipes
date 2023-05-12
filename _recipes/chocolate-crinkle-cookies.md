@@ -11,14 +11,14 @@ preparation_time: 15 minutes
 cooking_time: 12 minutes
 
 ingredients:
-- ½ cup butter
-- 1¼ sugar
+- 1/2 cup butter
+- 1 1/4 sugar
 - 2 eggs
-- ½ tsp vanilla
-- 1⅔ cup flour (all-purpose)
-- ½ cup cocoa powder
-- 1½ tsp baking powder
-- ¼ tsp salt
+- 1/2 tsp vanilla
+- 1 2/3 cup flour (all-purpose)
+- 1/2 cup cocoa powder
+- 1 1/2 tsp baking powder
+- 1/4 tsp salt
 - granulated sugar or powder sugar (to coat the cookies)
 
 directions:

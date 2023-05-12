@@ -14,9 +14,9 @@ ingredients:
 - 8 oz bittersweet chocolate
 - 3 oz or 6 Tbsp butter in small cubes
 - 4 eggs (room temperature, separated)
-- ¼ cup sugar
+- 1/4 cup sugar
 - 1 cup heavy whipping cream
-- ½ tsp vanilla extract
+- 1/2 tsp vanilla extract
 
 directions:
 - Put butter, cut into cubes, with the chocolate broken into smaller pieces into a mixing bowl. 

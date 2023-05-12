@@ -11,11 +11,11 @@ preparation_time:
 cooking_time:
 
 ingredients:
-- ½ cup packed light brown sugar
-- ½ stick (¼ cup) unsalted butter
-- ¼ cup light corn syrup
-- ⅓ cup all-purpose flour
-- ½ cup sliced almonds, chopped
+- 1/2 cup packed light brown sugar
+- 1/2 stick (1/4 cup) unsalted butter
+- 1/4 cup light corn syrup
+- 1/3 cup all-purpose flour
+- 1/2 cup sliced almonds, chopped
 
 directions:
 - Preheat oven to 350°F and generously grease 2 large baking sheets. Cook brown sugar, butter, and corn syrup in a 1-quart saucepan over moderate heat, stirring occasionally, until smooth. Remove from heat, then stir in flour and almonds.

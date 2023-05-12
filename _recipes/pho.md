@@ -13,17 +13,17 @@ cooking_time: 35 minutes
 ingredients:
 - 8 oz rice noodles (or angel hair pasta)
 - 1 yellow onion
-- 2 Tbsp fresh ginger, or ½ teaspoon ground ginger
+- 2 Tbsp fresh ginger, or 1/2 teaspoon ground ginger
 - 5 whole pieces of star anise, or 2 teaspoons fennel seeds
 - 3 cinnamon sticks, or 1 teaspoon ground cinnamon 
-- 4 whole cloves, or ¼ teaspoon ground cloves
+- 4 whole cloves, or 1/4 teaspoon ground cloves
 - 4 Tbsp sriracha sauce
-- 1 Tbsp rice vinegar (or ½ teaspoon fish sauce for a more authentic taste) 
+- 1 Tbsp rice vinegar (or 1/2 teaspoon fish sauce for a more authentic taste) 
 - Juice of 1 lime
 - 6 cups beef broth (or broth of choice, such as chicken or vegetable)
 - 2 cups water
-- ¼ cup low-sodium soy or coconut aminos sauce
-- ½ Tbsp brown sugar 
+- 1/4 cup low-sodium soy or coconut aminos sauce
+- 1/2 Tbsp brown sugar 
 - 3 oz thinly sliced beef steak (or other protein, such as chicken or tofu) 
 - 2 cups chopped cilantro and/or Thai basil (optional garnish) 
 - Bean sprouts (optional garnish)

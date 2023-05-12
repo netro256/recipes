@@ -12,12 +12,12 @@ cooking_time: 25 minutes
 
 ingredients:
 - 1 cup butter (2 sticks)
-- 1¼ cups milk chocolate chips
-- 1¼ cups semi-sweet chocolate chips
+- 1 1/4 cups milk chocolate chips
+- 1 1/4 cups semi-sweet chocolate chips
 - 1 tsp vanilla extract
 - 1 12-oz can evaporated milk
 - 4 cups granulated sugar
-- 2¼ cups mini marshmallows
+- 2 1/4 cups mini marshmallows
 
 directions:
 - Add the butter, both types of chocolate chips, and vanilla to an extra large mixing bowl. Set aside.
