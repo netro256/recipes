@@ -16,6 +16,17 @@ My site from this fork
 - Scale-able recipes (thanks to [PhilipNelson5](https://github.com/PhilipNelson5/chowdown)'s fork)
 - Prettier printing pages
 
+# Changing Colors
+
+In _config.yml you can change the following values with your preffered colors:
+
+colors:
+primary-text-color:
+secondary-text-color:
+primary-bg-color:
+tile-color:
+menu-color:
+
 # Getting Started
 
 This is a Jekyll build. Make sure you have Jekyll [installed](https://jekyllrb.com/). To install, run this command in the terminal (or iTerm, etc):
