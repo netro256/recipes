@@ -32,6 +32,8 @@ directions:
 
 notes:
 
+components:
+
 ---
 
 Nicole's original banana bread recipe

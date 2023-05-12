@@ -23,6 +23,8 @@ directions:
 
 notes:
 
+components:
+
 ---
 
 Original recipe from The Seasoned Chef.

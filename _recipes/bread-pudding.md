@@ -29,6 +29,8 @@ directions:
 
 notes:
 
+components:
+
 ---
 
 Tina's original bread pudding recipe.

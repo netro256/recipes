@@ -40,6 +40,8 @@ notes:
 - Using whole spices instead of ground spices will yeild a better tasting broth.
 - You can leave the meat out of the broth while boiling and simmering so that you can strain the broth of the spices easier. I added the meat to my bowl of noodles and pour broth over it at the very end. Make sure the broth is hot or boiling before serving in your bowl so it cooks the meat.
 
+components:
+
 ---
 
 Original recipe found at [UC Denver CampusWell's website](https://cudenver.campuswell.com/ucookbook-simple-pho-style-soup/#1603474762922-2f49e55e-7c99).

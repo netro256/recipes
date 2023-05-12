@@ -29,7 +29,10 @@ directions:
 - Then add the rest of the whites and fold into the mixture. 
 - Add vanilla extract to cream and whip until soft peaks form. 
 - Fold cream into mixture and serve.
+
 notes:
+
+components:
 
 ---
 

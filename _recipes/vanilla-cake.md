@@ -28,6 +28,8 @@ directions:
 notes:
 - "Gluten-free: Recomendation is to use Pamela's brand gluten free all-purpose flour mix and use 2 cups and 1 Tbsp. However, you can replace the all-purpose flour according to the instructions of the gluten-free flour packaging. If there are no substitution instructions, you can substitute the flour by weight (about 13.5 oz or 380 grams). Also beat the batter a bit longer to give it more structure, and bake a bit longer."
 
+components:
+
 ---
 
 Recipe found at [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/basic-vanilla-cake-recipe-2043654).

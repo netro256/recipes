@@ -34,6 +34,8 @@ notes:
 - Mochi dough is very sticky when it comes out of the microwave, but this is when it’s easiest to shape or roll. If the dough cools down too much, it will be much more difficult to manage.
 - Avoid fillings that have too much moisture – otherwise liquid may seep out from the seams.
 
+components:
+
 ---
 
 Original recipe found at [AllRecipes](https://www.allrecipes.com/recipe/193307/easy-mochi/).

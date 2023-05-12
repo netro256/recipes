@@ -30,6 +30,8 @@ directions:
 
 notes:
 
+components:
+
 ---
 
 Original recipe found at [Sally's Baking Addiction](https://sallysbakingaddiction.com/raspberry-almond-thumbprint-cookies/).

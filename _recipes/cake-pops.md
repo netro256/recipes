@@ -37,6 +37,8 @@ notes:
 
 - Dipped cake pops decorated with Candy Melts candy can be stored at room temperature for a week. If you used melted chocolate or white chocolate to dip or decorate your cake pops, store them in the fridge so the chocolate doesn’t melt.
 
+components:
+
 ---
 
 Recipe found at [Wilton Blog](https://blog.wilton.com/how-to-make-cake-pops-easy-cake-pop-recipe/).
