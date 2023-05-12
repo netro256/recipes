@@ -40,7 +40,7 @@ layout: default
       {% if page.yield %}
         <div class="mt0 mb1 xs-center" itemprop="yield">
           <h4 class="preffered-color mt0 mb2 xs-center inline">{{ site.translation[site.language].yield }}</h4>
-          <p class="inline">{{page.yield}}</p>
+          <p class="inline" itemprop="recipeIngredient">{{page.yield}}</p>
         </div>
       {% endif %}
     </div>
