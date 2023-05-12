@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Chocolate Crinkle Cookies"
 image: chocolate-crinkle-cookies.jpg
-imagecredit: 
+imagecredit: https://www.bigoven.com/recipe/chocolate-crinkle-cookies/1350354
 tags: baking, cookies, dessert, christmas, chocolate
 
 yield: 
