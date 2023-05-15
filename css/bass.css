@@ -731,6 +731,11 @@ h6, .h6 { font-size: .75rem }
     box-sizing: border-box;
   }
 
+  .sm-col-alt {
+    float: left;
+    box-sizing: border-box;
+  }
+
   .sm-col-right {
     float: right;
     box-sizing: border-box;
