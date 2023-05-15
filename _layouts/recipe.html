@@ -127,7 +127,7 @@ layout: default
       <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
-      <div class="image ratio bg-cover" style="background-image:url({{site.baseurl}}/images/{{ image }});">
+      <div class="image ratio" style="background-image:url({{site.baseurl}}/images/{{ image }});">
         <img class="hide" itemprop="photo" src="{{site.baseurl}}/images/{{ image }}" />
       </div>
         {% if recipe.imagecredit %}
@@ -147,7 +147,7 @@ layout: default
           {% endfor %}
         </ul>
       </div>
-      
+
       <div class="sm-col sm-col-6 lg-col-6">
         <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].directions }}</h3>
           <ul itemprop="instructions">
