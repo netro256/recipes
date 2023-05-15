@@ -27,7 +27,6 @@ notes:
 
 components:
 - Roasted Tomato Pepper Marinara
-- Vanilla Custard Filling
 
 ---
 
