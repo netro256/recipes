@@ -127,9 +127,7 @@ layout: default
       <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
-      <div class="image ratio" style="background-image:url({{site.baseurl}}/images/{{ image }});">
-        <img class="hide" itemprop="photo" src="{{site.baseurl}}/images/{{ image }}" />
-      </div>
+      <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
         {% if recipe.imagecredit %}
           {% for imagecredit in recipe.imagecredit %}
             <a href="{{ imagecredit }}" class="right">
