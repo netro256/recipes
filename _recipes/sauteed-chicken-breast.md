@@ -4,7 +4,7 @@ layout: recipe
 title:  "Sautéed Chicken Breast"
 image: sauteed-chicken-breast.jpg
 imagecredit: https://www.americastestkitchen.com/recipes/5861-pan-seared-chicken-breasts
-tags: mains, meat, "The Seasoned Chef"
+tags: mains, meat, the_seasoned_chef
 
 yield: 4 servings
 preptime: 15 minutes

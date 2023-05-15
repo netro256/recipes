@@ -4,7 +4,7 @@ layout: recipe
 title:  "Basil Aioli"
 image: basil-aioli.jpg
 imagecredit: https://lindaben.is/recipes/basil-aioli-sosa/
-tags: sauce, "The Seasoned Chef"
+tags: sauce, the_seasoned_chef
 
 ingredients:
 - 2 egg yolks

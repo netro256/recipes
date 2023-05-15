@@ -4,7 +4,7 @@ layout: recipe
 title:  "Almond Lace Cookies"
 image: almond-lace-cookies.jpg
 imagecredit: https://www.mygreatrecipes.com/recipe/almond-lace-cookies
-tags: baking, cookies, dessert, "The Seasoned Chef"
+tags: baking, cookies, dessert, the_seasoned_chef
 
 yield: 
 preparation_time:
