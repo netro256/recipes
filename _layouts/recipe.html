@@ -121,7 +121,7 @@ layout: default
 
   <div class="clearfix mxn2">
   {% for component in page.components %}
-    <div class="sm-col sm-col-4 px2">
+    <div class="sm-col sm-col-12 px2 bg-lighten-2 ">
     {% for recipe in site.components %}
     {% if recipe.title == component %}
       <h3 class="preffered-color center">{{recipe.title}}</h3>
@@ -139,19 +139,23 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].ingredients }}</h3>
-        <ul class="ingredients" itemprop="ingredients">
-        {% for item in recipe.ingredients %}
-        <li itemprop="ingredient">{{ item | markdownify }}</li>
-        {% endfor %}
-      </ul>
-
-      <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].directions }}</h3>
-        <ul itemprop="instructions">
-        {% for item in recipe.directions %}
-        <li>{{ item | markdownify }}</li>
-        {% endfor %}
-      </ul>
+      <div class="sm-col sm-col-6 lg-col-6">
+        <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].ingredients }}</h3>
+          <ul class="ingredients" itemprop="ingredients">
+          {% for item in recipe.ingredients %}
+          <li itemprop="ingredient">{{ item | markdownify }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <div class="sm-col sm-col-6 lg-col-6">
+        <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].directions }}</h3>
+          <ul itemprop="instructions">
+          {% for item in recipe.directions %}
+          <li>{{ item | markdownify }}</li>
+          {% endfor %}
+        </ul>
+      </div>
 
     {% endif %}
     {% endfor %}

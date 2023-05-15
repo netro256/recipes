@@ -1396,6 +1396,11 @@ input[type=range] {
 .bg-darken-3 { background-color: rgba(0,0,0,.25) }
 .bg-darken-4 { background-color: rgba(0,0,0,.5) }
 
+.bg-lighten-1 { background-color: rgba(200,200,200,.0625) }
+.bg-lighten-2 { background-color: rgba(200,200,200,.125) }
+.bg-lighten-3 { background-color: rgba(200,200,200,.25) }
+.bg-lighten-4 { background-color: rgba(200,200,200,.5) }
+
 .border-aqua  { border-color: #7fdbff }
 .border-blue  { border-color: #007FFF }
 .border-navy  { border-color: #001f3f }
