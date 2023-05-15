@@ -154,8 +154,8 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     }
 
     .sm-col-alt {
-        float: unset;
-        box-sizing: unset;
+        float: left;
+        box-sizing: border-box;
     }
 
     .col,
