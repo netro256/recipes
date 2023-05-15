@@ -4,7 +4,7 @@ layout: recipe
 title:  "Roasted Tomato Pepper Marinara"
 image: roasted-tomato-pepper-marinara.jpg
 imagecredit: 
-tags: sauce, The Seasoned Chef
+tags: sauce, "The Seasoned Chef"
 
 ingredients:
 - 5 large tomatoes, cored

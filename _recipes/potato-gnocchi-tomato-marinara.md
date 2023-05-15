@@ -4,7 +4,7 @@ layout: recipe
 title:  "Potato Gnocchi"
 image: potato-gnocchi.jpg
 imagecredit: https://www.disgracesonthemenu.com/2010/11/potato-gnocchi.html
-tags: mains, pasta, The Seasoned Chef
+tags: mains, pasta, "The Seasoned Chef"
 
 yield: 
 preptime: 

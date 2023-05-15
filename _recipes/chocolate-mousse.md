@@ -4,7 +4,7 @@ layout: recipe
 title:  "Chocolate Mousse"
 image: chocolate-mousse.jpg
 imagecredit: https://bakingamoment.com/easy-chocolate-mousse-recipe/
-tags: cookies, dessert, chocolate, The Seasoned Chef
+tags: cookies, dessert, chocolate, "The Seasoned Chef"
 
 yield: 
 preparation_time:
