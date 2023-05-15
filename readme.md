@@ -11,11 +11,14 @@ My site from this fork
 # Changes in this fork
 
 - Dark theme (and easy color replacement)
-- Menu bar
+- Menu bar for navigating the site
 - Adjusted sizing of images and text for better mobile experience
 - Scale-able recipes (thanks to [PhilipNelson5](https://github.com/PhilipNelson5/chowdown)'s fork), plus components scale with recipe
 - Prettier printable recipes + components
 - Full width component recipes 
+- A page with all the recipes/components listed by categories
+- A page for cooking tips/tricks
+- Extra stylistic changes
 
 # Changing Colors
 
