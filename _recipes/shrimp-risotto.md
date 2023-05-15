@@ -33,7 +33,6 @@ directions:
 notes:
 
 components:
-- Roasted Tomato Pepper Marinara
 
 ---
 
