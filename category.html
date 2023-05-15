@@ -6,6 +6,7 @@ title: Recipes Listed By Tag
 {% assign recipes_tags = site.recipes | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
 {% assign sorted_recipes = site.recipes | sort: 'title' %}
 
+<h2 class="ml4">Recipes</h2>
 <div id="tags">
   {% for tag in recipes_tags %}
     {% if tag == '' %}
@@ -21,4 +22,13 @@ title: Recipes Listed By Tag
       {% endfor %}
     </ul>
   {% endfor %}
+</div>
+
+<div id="components">
+  <h2 class="ml4">Components</h2>
+    <ul class="ml4">
+    {% for component in site.components %}
+      <li><a href="{{ site.baseurl }}/components/{{ component.url }}">{{component.title}}</a></li>
+    {% endfor %}
+    </ul>
 </div>
