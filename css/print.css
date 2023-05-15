@@ -466,11 +466,21 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     .md-px4,
     .lg-px4 { padding-left: 4rem; padding-right: 4rem }
 
-    .components { padding: 0; font-size: 8pt; }
+    .components { padding: 0; font-size: 10pt; }
 
     p, dl, ol, ul { margin: 0 }
 
     .preffered-color { color: #000 }
+
+    .bg-darken-1,
+    .bg-darken-2,
+    .bg-darken-3,
+    .bg-darken-4,
+    .bg-lighten-1,
+    .bg-lighten-2,
+    .bg-lighten-3,
+    .bg-lighten-4 { background-color: rgba(0, 0, 0, 0);}
+    
 
     /* Completely hide the following elements on print*/
 
