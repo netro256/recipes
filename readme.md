@@ -14,7 +14,8 @@ My site from this fork
 - Menu bar
 - Adjusted sizing of images and text for better mobile experience
 - Scale-able recipes (thanks to [PhilipNelson5](https://github.com/PhilipNelson5/chowdown)'s fork)
-- Prettier printing pages
+- Prettier printable recipes
+- Full width component recipes + printable components 
 
 # Changing Colors
 
