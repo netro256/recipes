@@ -115,13 +115,13 @@ layout: default
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
 
-  <div class="components bg-darken-2 p2 mt3 mb3 center">
+  <div class="components bg-darken-2 p2 mt3 mb2 center">
     &darr; {{ site.translation[site.language].component_based }} &darr;
   </div>
 
   <div class="clearfix mxn2">
   {% for component in page.components %}
-    <div class="sm-col-alt sm-col-12 px2 bg-lighten-2 ">
+    <div class="sm-col-alt sm-col-12 px2 mb3 bg-lighten-2 ">
     {% for recipe in site.components %}
     {% if recipe.title == component %}
       <h3 class="preffered-color center">{{recipe.title}}</h3>
