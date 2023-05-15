@@ -119,7 +119,7 @@ layout: default
     &darr; {{ site.translation[site.language].component_based }} &darr;
   </div>
 
-  <div class="clearfix mxn2">
+  <div class="clearfix mxn2 page-break-before">
   {% for component in page.components %}
     <div class="sm-col-alt sm-col-12 px2 mb3 bg-lighten-2 page-break-before">
     {% for recipe in site.components %}
@@ -143,7 +143,7 @@ layout: default
         <h3 class="preffered-color regular xs-center">{{ site.translation[site.language].ingredients }}</h3>
           <ul class="ingredients" itemprop="ingredients">
           {% for item in recipe.ingredients %}
-          <li itemprop="ingredient">{{ item | markdownify }}</li>
+          <li itemprop="recipeIngredient">{{ item | markdownify }}</li>
           {% endfor %}
         </ul>
       </div>
