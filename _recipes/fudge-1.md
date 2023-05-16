@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Fudge (hard)"
 image: fudge-1.jpg
-imagecredit: 
+imagecredit: https://tastesbetterfromscratch.com/perfect-chocolate-fudge/#recipe
 tags: dessert, chocolate
 
 yield: 50 servings

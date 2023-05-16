@@ -11,7 +11,7 @@ preparation_time: 4 hours
 cooking_time:
 
 ingredients:
-- one 9-inch cake, [Vanilla Cake Recipe](../vanilla-cake) makes two 9-inch cakes
+- one 9-inch cake, the Vanilla Cake Recipe makes two 9-inch cakes
 - 1/2 cup Buttercream Frosting
 - 1 bag Candy Melts Candy (12 oz)
 - Craft styrofoam block or cardboard box for holding and carrying cake pops
@@ -38,6 +38,7 @@ notes:
 - Dipped cake pops decorated with Candy Melts candy can be stored at room temperature for a week. If you used melted chocolate or white chocolate to dip or decorate your cake pops, store them in the fridge so the chocolate doesn’t melt.
 
 components:
+- Vanilla Cake
 
 ---
 

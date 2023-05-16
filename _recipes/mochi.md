@@ -13,7 +13,7 @@ cooking_time: 3.5 minutes
 ingredients:
 - 1 cup mochiko (sweet rice flour or glutinous rice flour) 
 - 1 cup water
-- ¼ cup sugar
+- 1/4 cup sugar
 - ~1 cup filling of your choice, roughly 1 tbsp of filling per ball
 - Katakuriko (Potato starch), for rolling out the dough (or corn starch)
 - 1 tsp green tea powder (optional)

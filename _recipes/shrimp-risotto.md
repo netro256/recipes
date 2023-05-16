@@ -4,7 +4,7 @@ layout: recipe
 title:  "Shrimp Risotto"
 image: shrimp-risotto.jpg
 imagecredit: https://foodnessgracious.com/lemon-shrimp-risotto/
-tags: mains, rice, seafood, the_seasoned_chef
+tags: main, rice, seafood, the_seasoned_chef
 
 yield: 
 preptime: 
@@ -19,7 +19,7 @@ ingredients:
 - 2 garlic cloves, minced
 - 1 cup white wine
 - 2 lb shrimp
-- ½ cup heavy cream
+- 1/2 cup heavy cream
 - 1 cup Parmesan, grated salt and pepper
 - Lemon juice, to taste
 - 2 tsp of finely chopped oregano
