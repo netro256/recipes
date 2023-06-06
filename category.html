@@ -14,7 +14,7 @@ title: Recipes Listed By Tag
     {% if tag == '' %}
       {% continue %}
     {% endif %}
-    <h3 class="ml4">{{ tag }}</h4>
+    <h3 class="ml4">{{ tag }}</h3>
     <ul class="ml4">
       {% for recipe in sorted_recipes %}
         {% assign tags_array = recipe.tags | join: ',' | split: ',' %}
@@ -32,7 +32,7 @@ title: Recipes Listed By Tag
     {% if tag == '' %}
       {% continue %}
     {% endif %}
-    <h3 class="ml4">{{ tag }}</h4>
+    <h3 class="ml4">{{ tag }}</h3>
     <ul class="ml4">
       {% for component in sorted_components %}
         {% assign tags_array = component.tags | join: ',' | split: ',' %}
