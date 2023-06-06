@@ -40,11 +40,11 @@ directions:
 - Coat each shape with powdered sugar and serve.
 
 notes:
-- "**Thickening agent you can choose of your own liking:**
-pectin - plant based. used in store bought zefir, makes the hardest zefir and fast. hardest to find in store.
-agar agar - seaweed based. makes medium hardness zefir and fast. should be available in a variety of stores worldwide.
-gelatin - animal based. takes extra step to add to mix. takes longer time to set and makes softer zefir. sold in most shops anywhere.
-powder gelatin needs to expand in a 1/4 glass of cold water. after that it needs to warm up in waterbath. and then finally added into whisked eggwhites same time as sugar syrup (don't boil gelatin!)."
+- "**Thickening agent you can choose of your own liking:**"
+- "pectin - plant based. used in store bought zefir, makes the hardest zefir and fast. hardest to find in store."
+- "agar agar - seaweed based. makes medium hardness zefir and fast. should be available in a variety of stores worldwide."
+- "gelatin - animal based. takes extra step to add to mix. takes longer time to set and makes softer zefir. sold in most shops anywhere."
+- "powder gelatin needs to expand in a 1/4 glass of cold water. after that it needs to warm up in waterbath. and then finally added into whisked eggwhites same time as sugar syrup (don't boil gelatin!)."
 - "**Flavors:** You can replace applesauce with your own jam of choosing. About 200g will do fine."
 
 components:
