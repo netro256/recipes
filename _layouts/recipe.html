@@ -71,8 +71,8 @@ layout: default
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h3>
       <ul>
         <!-- list components that make up recipe -->
-        {% for component in page.components %}
-        <li>{{ component | markdownify }}</li>
+        {% for recipe in page.components %}
+        <li>{{ recipe | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
