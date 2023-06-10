@@ -4,7 +4,7 @@ layout: recipe
 title:  "Vanilla Cake"
 image: vanilla-cake.jpg
 imagecredit: https://www.foodnetwork.com/recipes/food-network-kitchen/basic-vanilla-cake-recipe-2043654
-tags: dessert, cake, baking
+tags: dessert
 
 yield: two 9-inch cakes or 1 large cake
 preparation_time: 30 minutes

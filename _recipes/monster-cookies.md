@@ -2,24 +2,36 @@
 
 layout: recipe
 title:  "Monster Cookies"
-image: almond-lace-cookies.jpg
-imagecredit: https://www.mygreatrecipes.com/recipe/almond-lace-cookies
+image: monster-cookies.jpg
+imagecredit: 
 tags: cookies
 
-yield: 
-preparation_time:
-cooking_time:
+yield: 22 cookies
+preparation_time: 10 minutes
+cooking_time: 12 minutes
 
 ingredients:
-- 1/2 cup packed light brown sugar
-- 1/2 stick (1/4 cup) unsalted butter
-- 1/4 cup light corn syrup
-- 1/3 cup all-purpose flour
-- 1/2 cup sliced almonds, chopped
+- 11/2 cups old fashioned oats
+- 1/2 cup all-purpose flour
+- 1/2 teaspoon baking soda
+- 1/4 teaspoon salt
+- 1/2 cup unsalted butter, at room temperature
+- 1/2 cup creamy peanut butter
+- 1/2 cup granulated sugar
+- 1/2 cup light brown sugar
+- 1 large egg
+- 2 teaspoons vanilla extract
+- 1½ cups chocolate chips
+- 1½ cups M&M candies
+- Flake sea salt, for sprinkling on cookies
 
 directions:
-- Preheat oven to 350°F and generously grease 2 large baking sheets. Cook brown sugar, butter, and corn syrup in a 1-quart saucepan over moderate heat, stirring occasionally, until smooth. Remove from heat, then stir in flour and almonds.
-- Spoon scant tablespoons of batter 6 inches apart on baking sheets (4 cookies per sheet) and bake, 1. sheet at a time in middle of oven until golden brown and bubbling, 6 to 8 minutes. (Cookies will spread to 5 to 6 inches.) Cool cookies on sheet 1 to 2 minutes. Quickly but carefully remove cookies from sheet with a metal spatula and transfer to a rack to cool completely.
+- Preheat the oven to 350 degrees Line two large baking sheets with Silpat baking mats or parchment paper. Set aside.
+- In a medium bowl, stir together the oats, flour, baking soda, and salt. Set aside.
+- Using a stand mixer or hand-held mixer, beat the butter, peanut butter, and sugars together until creamy and smooth, on medium speed. Scrape down the sides of the bow with a spatula, if necessary. Beat in the egg and vanilla extract. Mix until well combined.
+- Add in the dry ingredients and mix on low until just until the combined. Don't over mix. Gently stir in the chocolate chips and M&M's.
+- Scoop the cookies into round balls, about 2 tablespoons of dough per cookie, and place on the prepared baking sheets, leaving 2 inches in between cookies. Bake for 10-12 minutes, or until the cookies are lichtly browned around the edges, but still soft in the middle.
+- Remove cookies from oven and sprinkle the cookies with sea salt. You can also gently press additional chocolate chips and M&M's on top of the cookies to make them look extra pretty. Let the cookies cool on the bakinG sheet for about 5 minutes or until set When set, transfer cookies to a wire rack and cool completely.
 
 notes:
 
@@ -27,4 +39,3 @@ components:
 
 ---
 
-Original recipe from The Seasoned Chef.
