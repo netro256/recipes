@@ -4,7 +4,7 @@ layout: recipe
 title:  "Fudge (easy)"
 image: fudge-2.jpg
 imagecredit: https://www.thisisnotdietfood.com/easy-chocolate-peanut-butter-fudge/
-tags: dessert, chocolate
+tags: dessert
 
 yield: 20 servings
 preparation_time: 5 minutes

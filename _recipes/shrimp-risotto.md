@@ -4,7 +4,7 @@ layout: recipe
 title:  "Shrimp Risotto"
 image: shrimp-risotto.jpg
 imagecredit: https://foodnessgracious.com/lemon-shrimp-risotto/
-tags: main, rice, seafood, the_seasoned_chef
+tags: main, the_seasoned_chef
 
 yield: 
 preptime: 

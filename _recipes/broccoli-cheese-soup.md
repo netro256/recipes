@@ -4,7 +4,7 @@ layout: recipe
 title:  "Broccoli Cheese Soup"
 image: broccoli-cheese-soup.jpg
 imagecredit: http://www.notquitesusie.com/2016/01/broccoli-cheese-soup-recipe.html
-tags: main, soup
+tags: main
 
 yield: 4 servings
 preptime: 15 minutes

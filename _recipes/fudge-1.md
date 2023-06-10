@@ -4,7 +4,7 @@ layout: recipe
 title:  "Fudge (hard)"
 image: fudge-1.jpg
 imagecredit: https://tastesbetterfromscratch.com/perfect-chocolate-fudge/#recipe
-tags: dessert, chocolate
+tags: dessert
 
 yield: 50 servings
 preparation_time: 15 minutes

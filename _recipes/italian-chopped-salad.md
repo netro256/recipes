@@ -4,7 +4,7 @@ layout: recipe
 title:  "Italian Chopped Salad"
 image: italian-chopped-salad.jpg
 imagecredit: https://radiatefoodvibes.com/2019/04/08/moms-classic-italian-chopped-salad/
-tags: salad, side, the_seasoned_chef
+tags: side, the_seasoned_chef
 
 yield: 6 servings
 preptime: 10 minutes

@@ -4,7 +4,7 @@ layout: recipe
 title:  "Mac and Cheese"
 image: mac-and-cheese.jpg
 imagecredit: 
-tags: main, pasta
+tags: main
 
 yield: 4 servings
 preptime: 10 minutes

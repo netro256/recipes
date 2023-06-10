@@ -4,7 +4,7 @@ layout: recipe
 title:  "Soft Pretzels"
 image: soft-pretzels.jpg
 imagecredit: https://sallysbakingaddiction.com/30-minute-whole-wheat-pretzels/#tasty-recipes-76635
-tags: snack
+tags: side
 
 yield: 8 pretzels
 preptime: 15 minutes

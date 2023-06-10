@@ -4,7 +4,7 @@ layout: recipe
 title:  "Phở-style Noodle Soup"
 image: pho-noodle-soup.jpg
 imagecredit: https://cudenver.campuswell.com/ucookbook-simple-pho-style-soup/#1603474762922-2f49e55e-7c99
-tags: main, soup
+tags: main
 
 yield: 4 servings
 preparation_time: 15 minutes

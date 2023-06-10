@@ -4,7 +4,7 @@ layout: recipe
 title:  "Chicken Breast (Air Fryer)"
 image: chicken-breast-air-fryer.jpg
 imagecredit: https://kristineskitchenblog.com/air-fryer-chicken-breast/
-tags: main, meat
+tags: main
 
 yield: 4 servings
 preptime: 10 minutes

@@ -1,10 +1,10 @@
 ---
 
 layout: recipe
-title:  "Almond Lace Cookies"
+title:  "Monster Cookies"
 image: almond-lace-cookies.jpg
 imagecredit: https://www.mygreatrecipes.com/recipe/almond-lace-cookies
-tags: cookies, the_seasoned_chef
+tags: cookies
 
 yield: 
 preparation_time:

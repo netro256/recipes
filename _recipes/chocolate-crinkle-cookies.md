@@ -4,7 +4,7 @@ layout: recipe
 title:  "Chocolate Crinkle Cookies"
 image: chocolate-crinkle-cookies.jpg
 imagecredit: https://www.bigoven.com/recipe/chocolate-crinkle-cookies/1350354
-tags: baking, cookies, dessert, christmas, chocolate
+tags: cookies
 
 yield: 
 preparation_time: 15 minutes

@@ -4,7 +4,7 @@ layout: recipe
 title:  "Bean and Beef Chili"
 image: bean-and-beef-chili.jpg
 imagecredit: https://www.tasteofhome.com/recipes/hearty-beef---bean-chili
-tags: main, soup, meat
+tags: main
 
 yield:
 preptime: 25 minutes

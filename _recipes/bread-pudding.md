@@ -4,7 +4,7 @@ layout: recipe
 title:  "Bread Pudding"
 image: bread-pudding.jpg
 imagecredit: https://cooking.nytimes.com/recipes/1012636-simple-bread-pudding
-tags: dessert, baking
+tags: dessert
 
 yield: 
 preparation_time: 15 minutes

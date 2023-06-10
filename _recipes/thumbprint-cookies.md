@@ -4,7 +4,7 @@ layout: recipe
 title:  "Thumbprint Cookies"
 image: thumbprint-cookies.jpg
 imagecredit: https://sallysbakingaddiction.com/raspberry-almond-thumbprint-cookies/
-tags: baking, cookies, dessert
+tags: cookies
 
 yield: 26 cookies
 preparation_time: 3 hours, 15 minutes

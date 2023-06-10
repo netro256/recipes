@@ -4,7 +4,7 @@ layout: recipe
 title:  "Cake Pops"
 image: cake-pops.jpg
 imagecredit: https://i.pinimg.com/originals/72/28/bd/7228bdc29d4d34b8e0c502df9d94a7da.jpg
-tags: dessert, cake
+tags: dessert
 
 yield: 24 cake pops (depending on size)
 preparation_time: 4 hours

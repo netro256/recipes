@@ -4,7 +4,7 @@ layout: recipe
 title:  "Korean Beef Bowl"
 image: korean-beef-bowl.jpg
 imagecredit: https://damndelicious.net/2013/07/07/korean-beef-bowl/
-tags: main, meat
+tags: main
 
 yield: 4 servings
 preptime: 5 minutes
