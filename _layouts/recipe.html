@@ -237,7 +237,7 @@ layout: default
 
     let components = [];
     {% if page.components %}
-    {% for component in page.components %}
+    {% for recipe in page.components %}
       recipes.push("{{recipe}}");
     {% endfor %}
     {% endif %}
