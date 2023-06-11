@@ -122,8 +122,8 @@ layout: default
   <div class="clearfix mxn2 page-break-before">
   {% for component in page.components %}
     <div class="sm-col-alt sm-col-12 px2 mb3 bg-lighten-2 page-break-before">
-    {% for component in site.components %}
-    {% if component.title == component %}
+    {% for recipe in site.components %}
+    {% if recipe.title == component %}
       <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
@@ -238,7 +238,7 @@ layout: default
     let components = [];
     {% if page.components %}
     {% for component in page.components %}
-      components.push("{{component}}");
+      components.push("{{recipe}}");
     {% endfor %}
     {% endif %}
 
@@ -265,7 +265,6 @@ layout: default
     });
 
     localStorage.setItem("recipe", json);
-    window.location.href = "{{ site.baseurl }}/edit.html";
   });
   
 </script>
