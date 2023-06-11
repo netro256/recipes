@@ -71,8 +71,8 @@ layout: default
       <h3 class="preffered-color mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h3>
       <ul>
         <!-- list components that make up recipe -->
-        {% for recipe in page.components %}
-        <li>{{ recipe | markdownify }}</li>
+        {% for component in page.components %}
+        <li>{{ component | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
@@ -120,10 +120,10 @@ layout: default
   </div>
 
   <div class="clearfix mxn2 page-break-before">
-  {% for recipe in page.components %}
+  {% for component in page.components %}
     <div class="sm-col-alt sm-col-12 px2 mb3 bg-lighten-2 page-break-before">
-    {% for recipe in site.components %}
-    {% if recipe.title == recipe %}
+    {% for component in site.components %}
+    {% if component.title == component %}
       <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
@@ -237,8 +237,8 @@ layout: default
 
     let components = [];
     {% if page.components %}
-    {% for recipe in page.components %}
-      recipes.push("{{recipe}}");
+    {% for component in page.components %}
+      components.push("{{component}}");
     {% endfor %}
     {% endif %}
 
@@ -259,7 +259,7 @@ layout: default
       cooktime: cooktime,
       ingredients: ingredients,
       directions: directions,
-      components: recipes,
+      components: components,
       notes: notes,
       description: description,
     });
