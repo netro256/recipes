@@ -127,6 +127,10 @@ td {
 th { vertical-align: bottom }
 td { vertical-align: top }
 
+table, th, td {
+  border: 1px solid;
+}
+
 
 body {
   font-family: 'Inter UI', Helvetica, sans-serif;
