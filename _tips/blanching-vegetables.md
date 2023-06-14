@@ -17,7 +17,7 @@ The ideal wav to accurately determine the perfect point of doneness for any vege
 
 One last note. The only time you do not transfer the vegetables to a water bath is if they are going to be seasoned and served immediately.
 
-| :                     Recommended Cooking Times                      : |||
+|                      Recommended Cooking Times                         |||
 | Vegetable         | Prep           | Time                                | 
 | :-----------------| :--------------| -----------------------------------:| 
 | Artichokes        | trimmed	     | 20-25 minutes                       |
