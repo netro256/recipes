@@ -1,22 +1,9 @@
 ---
 
-layout: recipe
+layout: tips
 title:  "Removing Tomato Skin"
 image: 
 imagecredit: 
-tags: 
-
-yield:
-preptime:
-cooktime:
-
-ingredients:
-
-directions:
-
-notes:
-
-components:
 
 ---
 

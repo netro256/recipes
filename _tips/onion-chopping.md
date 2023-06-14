@@ -1,22 +1,9 @@
 ---
 
-layout: recipe
+layout: tips
 title:  "Onion Chopping"
 image: 
 imagecredit: 
-tags: 
-
-yield:
-preptime:
-cooktime:
-
-ingredients:
-
-directions:
-
-notes:
-
-components:
 
 ---
 
