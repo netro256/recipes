@@ -1,6 +1,6 @@
 ---
 
-layout: tip
+layout: recipe
 title:  "Roasting Bell Pepper"
 image: 
 imagecredit: 

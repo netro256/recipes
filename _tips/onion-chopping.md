@@ -1,6 +1,6 @@
 ---
 
-layout: tip
+layout: recipe
 title:  "Onion Chopping"
 image: 
 imagecredit: 

@@ -1,6 +1,6 @@
 ---
 
-layout: tip
+layout: recipe
 title:  "Removing Tomato Skin"
 image: 
 imagecredit: 
