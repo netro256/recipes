@@ -6,7 +6,7 @@ image: zephir.jpg
 imagecredit: https://www.dreamstime.com/sweet-dessert-white-zephyr-marshmallows-clay-plate-rustic-wooden-background-white-zephyr-marshmallow-porcelain-plate-image114193489
 tags: dessert
 
-yield: 20 dollups
+yield: 20 dollops
 preparation_time: up to 3 days
 cooking_time: 
 
@@ -15,7 +15,7 @@ ingredients:
 - 300 ml sugar (100 ml sugar + 200 ml sugar)
 - 1 egg white
 - salt (optional)
-- 2 tsp geletin (or one packet - 2.5 oz)
+- 2 tsp gelatin (or one packet - 2.5 oz)
 - water
 - lemon juice (optional)
 - powdered sugar 
@@ -29,7 +29,7 @@ directions:
 - Whip into a solid with stiff peaks.
 - Add a splash of lemon juice.
 - Put the gelatin into a cup and add 1/4 cup cold water. Let the gelatin expand fully.
-- Prepare a water bath for the cup of geletin (warm water in a bowl with space to place the cup in the warm water).
+- Prepare a water bath for the cup of gelatin (warm water in a bowl with space to place the cup in the warm water).
 - Warm up the cup of gelatin in the water bath. Do next steps in the meantime.
 - In new pot, add 100 ml water and 200 ml sugar.
 - Boil and stir constantly (bubbling) for about 5 min. The indication this is ready is when you let it drip off a spoon onto a plate and it forms a nice bubble shape (like a bead).
@@ -44,7 +44,7 @@ notes:
 - "Pectin - plant based. used in store bought zefir, makes the hardest zefir and fast. hardest to find in store."
 - "Agar agar - seaweed based. makes medium hardness zefir and fast. should be available in a variety of stores worldwide."
 - "Gelatin - animal based. takes extra step to add to mix. takes longer time to set and makes softer zefir. sold in most shops anywhere."
-- "Powder gelatin needs to expand in a 1/4 glass of cold water. after that it needs to warm up in waterbath. and then finally added into whisked eggwhites same time as sugar syrup (don't boil gelatin!)."
+- "Powder gelatin needs to expand in a 1/4 glass of cold water. after that it needs to warm up in water bath. and then finally added into whisked egg whites same time as sugar syrup (don't boil gelatin!)."
 - "**Flavors:** You can replace applesauce with your own jam of choosing. About 200g will do fine."
 
 components:

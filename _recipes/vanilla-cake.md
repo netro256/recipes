@@ -26,7 +26,7 @@ directions:
 - Divide the batter between the prepared pans. Bake until the cakes are lightly golden on top and a toothpick inserted into the middle comes out clean, 30 to 35 minutes. Transfer to racks and let cool 10 minutes, then run a knife around the edge of the pans and turn the cakes out onto the racks to cool completely. Remove the parchment. Trim the tops of the cakes with a long serrated knife to make them level, if desired.
 
 notes:
-- "Gluten-free: Recomendation is to use Pamela's brand gluten free all-purpose flour mix and use 2 cups and 1 Tbsp. However, you can replace the all-purpose flour according to the instructions of the gluten-free flour packaging. If there are no substitution instructions, you can substitute the flour by weight (about 13.5 oz or 380 grams). Also beat the batter a bit longer to give it more structure, and bake a bit longer."
+- "Gluten-free: Recommendation is to use Pamela's brand gluten free all-purpose flour mix and use 2 cups and 1 Tbsp. However, you can replace the all-purpose flour according to the instructions of the gluten-free flour packaging. If there are no substitution instructions, you can substitute the flour by weight (about 13.5 oz or 380 grams). Also beat the batter a bit longer to give it more structure, and bake a bit longer."
 
 components:
 

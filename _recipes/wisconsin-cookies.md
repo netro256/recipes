@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Wisconsin Cookies"
 image: wisconsin-cookies.jpg
-imagecredit: 
+imagecredit: https://icrashedtheweb.com/2014/05/21/oatmeal-heath-bar-cookies/
 tags: cookies
 
 yield: 48 cookies
@@ -28,11 +28,11 @@ ingredients:
 directions:
 - Preheat oven to 375°F.
 - Chop candy bars.
-- In a bowl combine the flour, baking powder, bakind soda, and salt. Set aside.
+- In a bowl combine the flour, baking powder, baking soda, and salt. Set aside.
 - Mix together butter, sugar, and brown sugar until creamy.
 - Add eggs and vanilla. Blend until mixed.
 - "A little at a time, mix in flour mixture."
-- Add in oatmeal, candy, and nuts. Mix until evenly distributed, but do not overmix to pulverize the candy and oats.
+- Add in oatmeal, candy, and nuts. Mix until evenly distributed, but do not over-mix to pulverize the candy and oats.
 - Portion the cookies onto a baking sheet.
 - Bake at 375°F for 8-10 minutes.
 

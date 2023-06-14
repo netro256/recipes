@@ -21,7 +21,7 @@ ingredients:
 directions:
 - Using your hands, crumble up the cake into a large bowl until no large pieces remain. Add frosting, mixing with fingers until well combined.
 - Form into cake balls (sizes in extra notes) and chill until set, about 2 hours.
-- While cake balls are setting, melt Candy Melts candy according to package instructions. Then retreive the cake balls from the fridge and prepare a cake pop stand.
+- While cake balls are setting, melt Candy Melts candy according to package instructions. Then retrieve the cake balls from the fridge and prepare a cake pop stand.
 - Dip the tip of each lollipop stick into melted candy, then into set cake balls. Repeat with all cake balls, then let chill again until set, about 10 minutes. Reserve remaining melted candy.
 - Dip the cake balls, one at a time, into remaining melted candy. Tap lightly to remove excess (only if the cake balls are secure on the stick). If needed, you can reheat the candy or reheat with some EZ Thin Dipping Aid to thin it out for easier dipping.
 - If adding toppings, immediately cover with sprinkles or topping of choice, then transfer to craft foam. Repeat with remaining cake pops. Chill until set, about 10 to 15 minutes.

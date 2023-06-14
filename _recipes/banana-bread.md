@@ -25,7 +25,7 @@ directions:
 - Add eggs and vanilla. Mix.
 - Add mashed bananas. Mix
 - Add baking soda, salt, and sour cream. Mix.
-- Add flour. Mix until everything is incorperated.
+- Add flour. Mix until everything is incorporated.
 - Pour into greased loaf pan.
 - Bake at 350°F for 1 hour.
 - Test center with a toothpick. If it comes out clean then the bread is done.

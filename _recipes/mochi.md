@@ -30,7 +30,7 @@ directions:
 - Repeat to make remaining mochi. Store in fridge.
 
 notes:
-- Common fillings are red bean paste, white bean paste, whole dried apricots, candied chestnuts or ice cream. You can also try other fruits, cookie butter, or even nutella.
+- Common fillings are red bean paste, white bean paste, whole dried apricots, candied chestnuts or ice cream. You can also try other fruits, cookie butter, or even Nutella.
 - Mochi dough is very sticky when it comes out of the microwave, but this is when it’s easiest to shape or roll. If the dough cools down too much, it will be much more difficult to manage.
 - Avoid fillings that have too much moisture – otherwise liquid may seep out from the seams.
 

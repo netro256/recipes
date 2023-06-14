@@ -12,7 +12,7 @@ cooking_time: 25 minutes
 
 ingredients:
 - 4 Tbsp butter
-- 3 cups mini marshmellows
+- 3 cups mini marshmallows
 - 1 cup sugar
 - 1/2 cup cream
 - 1/2 tsp salt

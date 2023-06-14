@@ -8,7 +8,7 @@ tags: sauce, the_seasoned_chef
 
 ingredients:
 - 2 egg yolks
-- 1½ Tbsp lemon juice
+- 1 1/2 Tbsp lemon juice
 - 1 cup olive oil, approximately
 - 1 clove garlic, minced
 - 2 Tbsp stemmed and sliced basil

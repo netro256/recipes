@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Roasted Tomato Pepper Marinara"
 image: roasted-tomato-pepper-marinara.jpg
-imagecredit: 
+imagecredit: https://www.pinterest.com/pin/396035360984707009/
 tags: sauce, the_seasoned_chef
 
 ingredients:

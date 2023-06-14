@@ -22,13 +22,13 @@ components:
 
 Technique from The Seasoned Chef.
 
-Blanching is a technique that lends itself best to green vegetables and root vegetables. With green vegetables, a relatively large amount of salted water is brought to a boil; the vegetables are added uncovered, and then cooked quickly until just cooked through. They are then transferred immediatelv to a container of ice water to stop the cooking process and maintain the color. When cooled, the vegetables are drained and set aside or refrigerated until served
+Blanching is a technique that lends itself best to green vegetables and root vegetables. With green vegetables, a relatively large amount of salted water is brought to a boil; the vegetables are added uncovered, and then cooked quickly until just cooked through. They are then transferred immediately to a container of ice water to stop the cooking process and maintain the color. When cooled, the vegetables are drained and set aside or refrigerated until served
 
 Root vegetables are started in cold, salted water and brought to a simmer. The duration of the cooking time begins once the simmer stage has been reached. Like green vegetables, they are then transferred to an ice water bath and drained when cooled.
 
 The ideal wav to accurately determine the perfect point of doneness for any vegetable is by using your sense of touch and taste. This skill can be learned quickly with a limited amount of practice. Cooking times vary between vegetables; however, cooking times are generally considered to begin once the blanching water starts to boil, not before.
 
-One last note. The only time you do not transfer the vegetables to a water bath is if they are going to be seasoned and served immediatelv.
+One last note. The only time you do not transfer the vegetables to a water bath is if they are going to be seasoned and served immediately.
 
 ## Recommended Cooking Times
 | Vegetable         | Prep           | Time                                | 

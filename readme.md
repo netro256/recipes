@@ -10,11 +10,12 @@ My site from this fork
 
 # Changes in this fork
 
-- Dark theme (and easy color replacement)
+- Dark theme (and easy color replacement in _config.yml)
 - Menu bar for navigating the site
-- Adjusted sizing of images and text for better mobile experience
+- Adjusted dynamic sizing of images and text for better mobile experience
+- Components are listed as recipes (personal preference)
 - Scale-able recipes (thanks to [PhilipNelson5](https://github.com/PhilipNelson5/chowdown)'s fork), plus components scale with recipe
-- Prettier printable recipes + components
+- Prettier printable pages for recipes + components
 - Full width component recipes 
 - A page with all the recipes/components listed by categories
 - A page for cooking tips/tricks
@@ -22,7 +23,7 @@ My site from this fork
 
 # Changing Colors
 
-In _config.yml you can change the following values with your preffered colors:
+In _config.yml you can change the following values with your preferred colors:
 
 colors:
 primary-text-color:
@@ -67,7 +68,7 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 
 - place your smaller, single recipes into the /_components folder
 - make a new recipe like normal in the /_recipes folders
-- in the frontmatter of this new recipe, include your recipes from the /_components folder (instead of the usual Ingredeints list)
+- in the frontmatter of this new recipe, include your recipes from the /_components folder (instead of the usual Ingredients list)
 
 You can an example on the Red Berry Tart recipe. 
 

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Mac and Cheese"
 image: mac-and-cheese.jpg
-imagecredit: 
+imagecredit: http://inthekitchenwithkath.com/2011/10/27/jamie-olivers-macaroni-and-cheese/
 tags: main
 
 yield: 4 servings
@@ -27,9 +27,9 @@ directions:
 - Whisk the remaining milk, flour, garlic powder, salt and pepper in a small bowl until combined.
 - Add the flour mixture to the simmering milk; return to a simmer and cook, whisking constantly, until the mixture is thickened, 2 to 3 minutes.
 - Remove from the heat and whisk in Cheddar, Parmesan and mustard and oil until the cheese is melted.
-- "For pasta: Bring water to a boil, then add the pasta. Cook pasta until aldente (according to box)."
-- Drain pasta and rinse to remove excess startch. Place pasta in an oven-safe bowl.
-- Mix sauce into pasta then cook in the oven at 400 for 10 minutes.
+- "For pasta: Bring water to a boil, then add the pasta. Cook pasta until al dente (according to box)."
+- Drain pasta and rinse to remove excess starch. Place pasta in an oven-safe bowl.
+- Mix sauce into pasta then bake in the oven at 400 for 10 minutes.
 - Broil for 3 minutes (Keep and eye on it).
 
 notes: 

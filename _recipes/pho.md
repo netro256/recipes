@@ -37,7 +37,7 @@ directions:
 - After the broth and noodles have finished cooking, assemble the soup. Begin by placing a serving of noodles at the bottom of a large bowl, and then gradually layer with the warm broth and beef mixture. Top with fresh cilantro, basil, bean sprouts, sriracha, and/or hoisin sauce.
 
 notes:
-- Using whole spices instead of ground spices will yeild a better tasting broth.
+- Using whole spices instead of ground spices will yield a better tasting broth.
 - You can leave the meat out of the broth while boiling and simmering so that you can strain the broth of the spices easier. I added the meat to my bowl of noodles and pour broth over it at the very end. Make sure the broth is hot or boiling before serving in your bowl so it cooks the meat.
 
 components:
