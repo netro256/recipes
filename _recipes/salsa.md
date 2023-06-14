@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Salsa"
 image: salsa.jpg
-imagecredit: 
+imagecredit: https://www.tasteofhome.com/recipes/mexican-salsa/
 tags: side
 
 yield: about 32 oz of salsa

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Monster Cookies"
 image: monster-cookies.jpg
-imagecredit: 
+imagecredit: https://dontsweattherecipe.com/monster-cookies/
 tags: cookies
 
 yield: 22 cookies

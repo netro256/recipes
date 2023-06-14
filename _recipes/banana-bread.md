@@ -4,7 +4,7 @@ layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
 imagecredit: https://flic.kr/p/7HZmzn
-tags: baking
+tags: breakfast
 
 yield: 6 servings
 preptime: 10 minutes
