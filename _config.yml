@@ -38,6 +38,7 @@ translation:
     ingredients: "Ingredients"
     directions: "Directions"
     category: "Category"
+    categories: "Categories"
     nutritional_information: "Nutritional Information"
     component_based: 'This is a <strong class="preffered-color">component-based recipe</strong>.'
     search: "Search"
@@ -54,6 +55,7 @@ translation:
     ingredients: "Zutaten"
     directions: "Zubereitung"
     category: "Kategorie"
+    categories: "Kategories"
     nutritional_information: "Nährwertangaben"
     component_based: 'Dieses Rezept besteht aus <strong class="preffered-color">mehreren Komponenten</strong>.'
     search: "Suche"
