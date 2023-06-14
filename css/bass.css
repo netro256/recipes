@@ -129,6 +129,7 @@ td { vertical-align: top }
 
 table, th, td {
   border: 1px solid;
+  border-color: #777;
 }
 
 
