@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Veggie Dip"
-image: veggie_dip.jpg
-imagecredit: 
+image: veggie-dip.jpg
+imagecredit: https://www.everydaymadefresh.com/best-veggie-dip-ever-2/
 tags: side
 
 yield: a family-size amount of dip
@@ -30,4 +30,4 @@ components:
 
 ---
 
-Original recipe from .
+Original recipe from (EverydayMadeFresh)[https://www.everydaymadefresh.com/best-veggie-dip-ever-2/].
