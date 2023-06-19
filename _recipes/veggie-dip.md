@@ -30,4 +30,4 @@ components:
 
 ---
 
-Original recipe from (EverydayMadeFresh)[https://www.everydaymadefresh.com/best-veggie-dip-ever-2/].
+Original recipe from [EverydayMadeFresh](https://www.everydaymadefresh.com/best-veggie-dip-ever-2/).
