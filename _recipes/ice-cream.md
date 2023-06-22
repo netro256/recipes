@@ -17,11 +17,11 @@ ingredients:
 - 2 cup heavy cream (AKA whipping cream)
 
 directions:
-1. Whisk the eggs in a mixing bowl until light and fluffy, 1 to 2 minutes.
-2. Whisk in the sugar, a little at a time, then continue whisking until completely blended, about 1 minute more.
-"3. Pour in the cream and milk and whisk to blend. Optional: Add incorporated flavorings during this step (like vanilla or peanut butter)."
-"4. Pour mixture into ice cream maker and churn according to manufacturer's instructions. Optional: In the last 5 minutes of churning, add other flavorings (like fruits, nuts, or candies), then keep churning for the last 5 minutes until finished."
-5. Transfer to containers and freeze for 3-4 hours before serving.
+- "1. Whisk the eggs in a mixing bowl until light and fluffy, 1 to 2 minutes."
+- "2. Whisk in the sugar, a little at a time, then continue whisking until completely blended, about 1 minute more."
+- "3. Pour in the cream and milk and whisk to blend. Optional: Add incorporated flavorings during this step (like vanilla or peanut butter)."
+- "4. Pour mixture into ice cream maker and churn according to manufacturer's instructions. Optional: In the last 5 minutes of churning, add other add-ins (like fruits, nuts, or candies), then keep churning for the last 5 minutes until finished."
+- "5. Transfer to containers and freeze for 3-4 hours before serving."
 
 notes:
 - There is theoretically no limit to ice cream flavor combinations. Below I've listed some helpful guidelines that help me choose the amount of add-ins for my flavors, generally the amounts are for making flavors with 1 or 2 add-ins. Mix and match and follow your heart!
