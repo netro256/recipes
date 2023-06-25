@@ -11,21 +11,21 @@ preparation_time:
 cooking_time:
 
 ingredients:
-4 egg yolks
-3 1/2 tablespoons lemon juice
-1 tablespoon water
-1/8 teaspoon Worcestershire sauce
-1 pinch ground white pepper
-1 teaspoon hot water, or more as needed (Optional)
-1 cup butter, melted
-1 pinch salt
+- 4 egg yolks
+- 3 1/2 tablespoons lemon juice
+- 1 tablespoon water
+- 1/8 teaspoon Worcestershire sauce
+- 1 pinch ground white pepper
+- 1 teaspoon hot water, or more as needed (Optional)
+- 1 cup butter, melted
+- 1 pinch salt
 
-1/4 teaspoon salt
-1 teaspoon distilled white vinegar
-8 eggs
-8 strips Canadian-style bacon
-4 English muffins, split
-2 tablespoons butter, softened
+- 1/4 teaspoon salt
+- 1 teaspoon distilled white vinegar
+- 8 eggs
+- 8 strips Canadian-style bacon
+- 4 English muffins, split
+- 2 tablespoons butter, softened
 
 
 
