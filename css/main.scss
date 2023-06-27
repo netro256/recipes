@@ -39,7 +39,7 @@ ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 .search input::placeholder{color:lightgrey;}
 
 .hero{height:150px;}
-.post h1{margin-top:6rem}
+.post h1{margin-top:3rem}
 .post ol, .post ul{}
 .post li{margin-bottom:1rem; padding:0 0 0 1rem;}
 .post li:before{content:"- "; position:absolute; left:0; color:var(--tile-color)}
