@@ -170,14 +170,16 @@ layout: default
         </ul>
       </div>
 
-      <div class="sm-col sm-col-12 lg-col-12">
-        <h3 class="preffered-color xs-center">{{ site.translation[site.language].notes }}</h3>
-        <ul itemprop="notes">
-          {% for item in recipe.notes %}
-          <li>{{ note | markdownify }}</li>
-          {% endfor %}
-        </ul>
-      </div>
+      {% if recipe.notes %}
+        <div class="sm-col sm-col-12 lg-col-12">
+          <h3 class="preffered-color xs-center">{{ site.translation[site.language].notes }}</h3>
+          <ul itemprop="notes">
+            {% for item in recipe.notes %}
+            <li>{{ item | markdownify }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
 
     {% endif %}
     {% endfor %}
