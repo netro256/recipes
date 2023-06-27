@@ -141,6 +141,10 @@ layout: default
     {% if recipe.title == component %}
       <h3 class="preffered-color center">{{recipe.title}}</h3>
 
+      <div class="px2 mt3 clearfix">
+        <div class="sm-col-8 mx-auto center" itemprop="description">{{recipe.content}}</div>
+      </div>
+
       {% for image in recipe.image %}
       <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
         {% if recipe.imagecredit %}
