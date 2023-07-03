@@ -11,7 +11,7 @@ preptime:
 cooktime: 
 
 ingredients:
-- 2 gt chicken stock
+- 2 qt chicken stock
 - 1 Tbsp butter
 - 1 tsp olive oil
 - 2 shallots, minced

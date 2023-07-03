@@ -18,7 +18,7 @@ ingredients:
 - 1/4 tsp ground ginger
 - 1 Tbsp vegetable oil
 - 3 cloves garlic, minced
-- 1 lbs ground beef
+- 1 lb ground beef
 - 2 green onions, thinly sliced
 - 1/4 tsp sesame seeds
 

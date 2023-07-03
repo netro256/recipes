@@ -11,9 +11,9 @@ preparation_time:
 cooking_time:
 
 ingredients:
-- 1 lbs ground beef
+- 1 lb ground beef
 - 1/2 tsp marjoram
-- 1/2 lbs ground pork
+- 1/2 lb ground pork
 - 1/2 tsp salt
 - 1/3 cup finely chopped onion
 - dash of pepper

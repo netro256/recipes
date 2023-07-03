@@ -19,7 +19,7 @@ ingredients:
 - 1/2 teaspoon dry mustard
 - 1/2 teaspoon Old Bay seasoning
 - salt and black pepper to taste
-- 1 lbs crab meat, picked over to remove any shell
+- 1 lb crab meat, picked over to remove any shell
 - red and green bell pepper rings, for garnish
 
 directions:

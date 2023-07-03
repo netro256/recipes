@@ -11,7 +11,7 @@ preptime: 25 minutes
 cooktime: 30 minutes
 
 ingredients:
-- 1 lbs ground beef
+- 1 lb ground beef
 - 1 medium yellow onion, diced (about 1 cup)
 - 1 green bell pepper, diced (about 1 cup)
 - 1/2 tsp garlic salt

@@ -11,7 +11,7 @@ preptime: 15 minutes
 cooktime: 15 minutes
 
 ingredients:
-- 1.2 lbs chicken thighs (boneless skinless, cut into 2cm/- 4/5″ pieces)
+- 1.2 lb chicken thighs (boneless skinless, cut into 2cm/- 4/5″ pieces)
 - 1 tbsp curry powder
 - 1 tsp white sugar
 - 2 tsp red curry paste

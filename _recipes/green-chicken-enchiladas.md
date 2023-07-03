@@ -11,8 +11,8 @@ preparation_time:
 cooking_time: 20 minutes
 
 ingredients:
-- 1 lbs cooked shredded chicken
-- 1 lbs green tomatillos
+- 1 lb cooked shredded chicken
+- 1 lb green tomatillos
 - 1 jalapeño pepper (or serrano pepper for hotter)
 - 2 cloves garlic
 - 1 onion, chopped
