@@ -26,8 +26,11 @@ directions:
 notes:
 - There is theoretically no limit to ice cream flavor combinations. Below I've listed some helpful guidelines that help me choose the amount of add-ins for my flavors, generally the amounts are for making flavors with 1 or 2 add-ins. Mix and match and follow your heart!
 - When picking a flavor, be mindful of how many things you add to the ice cream batch. Too many things could make the ice cream harder to freeze, leaving you with a sloppy cold soup. If doing 3 or more add-ins, use less than the amounts listed below.
-- "Peanut Butter flavor: add 1/3 cup during step 3. Also good for Nutella or other similar things."
+- "Peanut Butter flavor: add 1/3 cup during step 3. Also good for Nutella, cookie butter, or other similar things."
 - "Coffee Flavor: add 3 tbsp during step 3."
+- "Bailey's Coffee Flavor: add 3 tbsp during step 3. Add 1/3 cup Bailey's during step 4."
+- "Caramel Swirl Flavor (and other sauces): add 1 cup caramel separated between layers of ice cream during step 5. You can also add it during step 4 to do it the easy way."
+- "Caramel Flavor (and other sauces): add 1 cup caramel during step 3."
 - "Berry Flavors: add 1/2 cup of sliced berries (or similar) of your choice during step 4."
 - "Large Soft Fruits: mash/purée 1 cup of fruit (plum, peach, pineapple, mango, etc.) and mix with 1/4 cup sugar. Cover and refrigerate for 1 hour. Drain fruit juice into ice cream during step 3. Add fruit purée during step 4."
 - "Nutty Flavors: add 2/3 cup of nuts of your choice during step 4."
