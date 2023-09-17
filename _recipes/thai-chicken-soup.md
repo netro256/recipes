@@ -13,7 +13,7 @@ cooking_time: 8-10 hours
 ingredients:
 - 2 medium carrots (chopped)
 - 1 red bell pepper (chopped)
-- ½ medium yellow onion (chopped)
+- 1/2 medium yellow onion (chopped)
 - 2 inch piece of ginger (minced)
 - 4 cloves garlic (minced)
 - 4 Tbsp red curry paste
@@ -24,14 +24,13 @@ ingredients:
 - 4 boneless, skinless chicken thighs
 - 2 15-ounce cans coconut milk
 - 1 lime
-- 8 ounces rice vermicelli (cooked according to package directions (omit
-for paleo or sub zucchini noodles))
+- 8 ounces rice vermicelli (cooked according to package directions)
 - "Optional toppings: lime wedges, sauteed mushrooms, cilantro, cherry tomatoes, black pepper"
 
 
 directions:
 - Add all the ingredients EXCEPT the coconut milk, lime, and rice vermicelli to your crock pot and stir together.
-- Cover and cook on low for 8-10 Fours.
+- Cover and cook on low for 8-10 hours.
 - Add the coconut milk and lime before serving with rice vermicelli. 
 
 notes:
