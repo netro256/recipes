@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Family and Friends!"
-author: netro256
+author: pipkickflip
 ---
 
 ***If you are taking the time to read this, then thank you for your curiosity!* I'm so glad I got to share this site with you! There will continue to be new recipes added all the time, so I hope you bookmark this site!**
@@ -12,4 +12,4 @@ I started making this site on May 9, 2023, after considering lots of templates a
 
 This site has helped me practice my web design skills and learn some good coding habits. Coding is much more my "thing" as opposed to writing and publishing a cookbook for the same effect. I won't make money off of this, but that wasn't the point to begin with! Plus, some other benefits are that I can carry this 'book' on my phone anywhere I go, and I have started trying new recipes and being more adventurous! I keep asking myself, "what's next?" and I keep asking people, "can I get your recipe for this?" I also feel like this journey has made me a better cook and more excited to cook! I don't know where this journey will take me next, but I know I'll enjoy the trip!
 
-- Neil
+- Piper
