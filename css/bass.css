@@ -240,14 +240,6 @@ h6, .h6 { font-size: .75rem }
 .left  { float: left }
 .right { float: right }
 
-.right-credit {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  margin-left: 40%;
-}
-
 .fit { max-width: 100% }
 
 .half-width { width: 50% }
