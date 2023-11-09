@@ -12,7 +12,7 @@ cooktime: 4 hours
 
 ingredients:
 - 2 tbsp olive oil
-- 2 lbs Boneless skinless chicken breasts cut into 1/2-inch pieces
+- 2 lb Boneless skinless chicken breasts cut into 1/2-inch pieces
 - 5 Cans reduced-sodium chicken broth (14-1/2 ounces each)
 - 8 cups Coarsely chopped Swiss chard, kale or spinach
 - 2 Large carrots finely chopped
