@@ -139,8 +139,6 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
 
     .page-break-after { page-break-after: always; }
 
-    .no-print { display: none; }
-
     a.no-reformat:after { content: ''; }
 
     .inline       { display: inline }
@@ -499,6 +497,8 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     .image,
     .geomicon {
     display: none !important;
-    height: 1px !important;
+    height: .01px !important;
     }
+    
+    .no-print { display: none !important; }
 }
