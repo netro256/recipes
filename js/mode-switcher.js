@@ -8,12 +8,12 @@ let theme = sessionStorage.getItem('theme');
 }*/
 
 function prefersColorTest(systemInitiatedDark) {
-  if (systemInitiatedDark.matches) {
-  	document.documentElement.setAttribute('data-theme', 'dark');		
+  if (!systemInitiatedDark.matches) {
+  	document.documentElement.setAttribute('data-theme', 'light');		
    	//document.getElementById("theme-toggle").innerHTML = "Light Mode";
    	sessionStorage.setItem('theme', '');
   } else {
-  	document.documentElement.setAttribute('data-theme', 'light');
+  	document.documentElement.setAttribute('data-theme', 'dark');
     //document.getElementById("theme-toggle").innerHTML = "Dark Mode";
     sessionStorage.setItem('theme', '');
   }
@@ -32,12 +32,12 @@ function modeSwitcher() {
 		sessionStorage.setItem('theme', 'dark');
 		//document.getElementById("theme-toggle").innerHTML = "Light Mode";
 	} else if (systemInitiatedDark.matches) {	
-		document.documentElement.setAttribute('data-theme', 'light');
-		sessionStorage.setItem('theme', 'light');
-		//document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
+		//document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+	} else {
+		document.documentElement.setAttribute('data-theme', 'light');
+		sessionStorage.setItem('theme', 'light');
 		//document.getElementById("theme-toggle").innerHTML = "Light Mode";
 	}
 }
