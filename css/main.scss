@@ -21,19 +21,17 @@ html[data-theme="light"] {
 /* Light mode */
 @media (prefers-color-scheme: light) {
     html, html[data-theme="light"] { 
-         
-            {% for c in site.colors.light-mode %}
-            --{{c[0]}}: {{c[1]}};
-            {% endfor %}
-        
+        {% for c in site.colors.light-mode %}
+        --{{c[0]}}: {{c[1]}};
+        {% endfor %}
+        --translucent-tile:rgba(0,0,0,.25);
     }
     html[data-theme="dark"] { 
-         
-            {% for c in site.colors.dark-mode %}
-            --{{c[0]}}: {{c[1]}};
-            {% endfor %}
-        }
-    
+        {% for c in site.colors.dark-mode %}
+        --{{c[0]}}: {{c[1]}};
+        {% endfor %}
+        --translucent-tile:rgba(255,255,255,.25);
+    }
 }
 
 
@@ -48,7 +46,7 @@ ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 
 #tips ul{display: inline-block;}
 #tips li{display: inline-block; padding:0px 5px;}
-#tips p{padding:10px; position:relative; background-color:rgba(0,0,0,.25); color:var(--primary-text-color);}
+#tips p{padding:10px; position:relative; background-color:var(--translucent-tile); color:var(--primary-text-color);}
 
 .bg-blue-tile{background: #007ff0 url(../assets/tile.png); position:relative;}
 @media all and (min-width:40em){
