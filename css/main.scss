@@ -30,7 +30,7 @@ html[data-theme="light"] {
         {% for c in site.colors.dark-mode %}
         --{{c[0]}}: {{c[1]}};
         {% endfor %}
-        --translucent-tile:rgba(255,255,255,.25);
+        --translucent-tile:rgba(0,0,0,.15);
     }
 }
 
