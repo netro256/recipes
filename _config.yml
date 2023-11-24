@@ -12,7 +12,7 @@ github_username:  pipkickflip
 # Template colors used site-wide via css
 colors:
   dark-mode:
-    bg-color: "#2D2727"
+    background-color: "#2D2727"
     primary-text-color: "#fff"
     link-text-color: "#f7f396"
     menu-color: "#513356"
