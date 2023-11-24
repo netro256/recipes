@@ -17,7 +17,7 @@ colors:
     secondary-text-color: "#e9cdef"
     link-color: "#f7f396"
     menu-color: "#513356"
-    accent-color: "#2c382a"
+    accent-color: "#43573f"
   light-mode:
     background-color: "#f6efec"
     primary-text-color: "#000"
