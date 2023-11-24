@@ -1018,11 +1018,11 @@ h6, .h6 { font-size: .75rem }
 
 body {
   color: var(--primary-text-color);
-  background-color: var(--primary-bg-color);
+  background-color: var(--background-color);
 }
 
 a {
-  color: var(--secondary-text-color);
+  color: var(--link-text-color);
   text-decoration: none;
 }
 
@@ -1043,7 +1043,7 @@ hr {
 
 .button {
   color: white;
-  background-color: var(--secondary-text-color);
+  background-color: var(--link-text-color);
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1079,7 +1079,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: var(--tile-color);
+  border-color: var(--accent-color);
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 
@@ -1362,7 +1362,7 @@ input[type=range] {
   background-color: #00000080;
 }
 
-.preffered-color { color: var(--secondary-text-color) }
+.preffered-color { color: var(--link-text-color) }
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
@@ -1384,7 +1384,7 @@ input[type=range] {
 .bg-silver, .bg-light-gray { background-color: #ddd }
 .bg-white  { background-color: #fff }
 
-.bg-preffered { background-color: var(--primary-bg-color) }
+.bg-preffered { background-color: var(--background-color) }
 
 .bg-aqua  { background-color: #7fdbff }
 .bg-blue  { background-color: #007FFF }

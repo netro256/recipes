@@ -11,11 +11,18 @@ github_username:  pipkickflip
 
 # Template colors used site-wide via css
 colors:
-  primary-text-color: "#fff"
-  secondary-text-color: "#F0EB8D"
-  primary-bg-color: "#2D2727"
-  tile-color: "#5D3891"
-  menu-color: "#413543"
+  dark-mode:
+    bg-color: "#2D2727"
+    primary-text-color: "#fff"
+    link-text-color: "#f7f396"
+    menu-color: "#513356"
+    accent-color: "#2c382a"
+  light-mode:
+    background-color: "#f6efec"
+    primary-text-color: "#000"
+    link-text-color: "#335b47"
+    menu-color: "#c7a8cc"
+    accent-color: "#cad5c8"
 
 # Build settings
 markdown: kramdown
