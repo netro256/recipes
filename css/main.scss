@@ -4,36 +4,36 @@
 // Pull colors from config to put in CSS
 /* Dark mode */
 html, html[data-theme="dark"] { 
-    :root {
+     
         {% for c in site.colors.dark-mode %}
         --{{c[0]}}: {{c[1]}};
         {% endfor %}
-    }
+    
 }
 html[data-theme="light"] { 
-    :root {
+     
         {% for c in site.colors.light-mode %}
         --{{c[0]}}: {{c[1]}};
         {% endfor %}
-    }
+    
 }
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
     html, html[data-theme="light"] { 
-        :root {
+         
             {% for c in site.colors.light-mode %}
             --{{c[0]}}: {{c[1]}};
             {% endfor %}
-        }
+        
     }
     html[data-theme="dark"] { 
-        :root {
+         
             {% for c in site.colors.dark-mode %}
             --{{c[0]}}: {{c[1]}};
             {% endfor %}
         }
-    }
+    
 }
 
 
