@@ -469,6 +469,7 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     p, dl, ol, ul { margin: 0 }
 
     .preffered-color { color: #000 }
+    .link { color: #000 }
 
     .bg-darken-1,
     .bg-darken-2,

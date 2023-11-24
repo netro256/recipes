@@ -1022,7 +1022,7 @@ body {
 }
 
 a {
-  color: var(--link-text-color);
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -1043,7 +1043,7 @@ hr {
 
 .button {
   color: white;
-  background-color: var(--link-text-color);
+  background-color: var(--link-color);
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1362,7 +1362,8 @@ input[type=range] {
   background-color: #00000080;
 }
 
-.preffered-color { color: var(--link-text-color) }
+.preffered-color { color: var(--secondary-text-color) }
+.link { color: var(--link-color) }
 
 .aqua  { color: #7fdbff }
 .blue  { color: #007FFF }
