@@ -35,12 +35,12 @@ ul li{  padding:0 0 0 25px; position:relative;}
 ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 #tags ul{display: inline-block;}
 #tags li{display: inline-block; padding:15px 5px;}
-#tags a{padding:10px; position:relative; background-color:var(--accent-color); color:var(--primary-text-color);}
+#tags a{padding:10px; position:relative; background-color:var(--accent-color); color:var(--primary-text-color); border:dotted 2px var(--primary-text-color);}
 #tags a:hover{background-color:var(--menu-color)}
 
 #tips ul{display: inline-block;}
 #tips li{display: inline-block; padding:0px 5px;}
-#tips p{padding:10px; position:relative; color:var(--primary-text-color); border:solid 2px var(--primary-text-color)}
+#tips p{padding:10px; position:relative; color:var(--primary-text-color); border:dotted 2px var(--primary-text-color);}
 
 .bg-blue-tile{background: #007ff0 url(../assets/tile.png); position:relative;}
 @media all and (min-width:40em){
