@@ -138,7 +138,7 @@ layout: default
   {% if page.components %}
 
   <div class="components bg-darken-2 p2 mt3 mb2 center">
-    &darr; {{ site.translation[site.language].component_based }} &darr;
+    <div>&darr; {{ site.translation[site.language].component_based }} &darr;</div>
     <ul>
     {% for component in page.components %}
       {% for recipe in site.recipes %}
