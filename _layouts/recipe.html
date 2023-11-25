@@ -141,7 +141,11 @@ layout: default
     &darr; {{ site.translation[site.language].component_based }} &darr;
     <ul>
     {% for component in page.components %}
-        <li><p>{{recipe.title}}</p></li>
+      {% for recipe in site.recipes %}
+        {% if recipe.title == component %}
+          <li><p>{{recipe.title}}</p></li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
     </ul>
   </div>
