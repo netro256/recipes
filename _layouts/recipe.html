@@ -139,6 +139,11 @@ layout: default
 
   <div class="components bg-darken-2 p2 mt3 mb2 center">
     &darr; {{ site.translation[site.language].component_based }} &darr;
+    <ul>
+    {% for component in page.components %}
+        <li><p>{{recipe.title}}</p></li>
+    {% endfor %}
+    </ul>
   </div>
 
   <div class="clearfix mxn2 page-break-before">
