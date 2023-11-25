@@ -43,8 +43,8 @@ ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
 #tips p{padding:10px; position:relative; color:var(--primary-text-color); border:dotted 2px var(--primary-text-color);}
 
 .components ul{display: inline-block;}
-.components li{display: inline-block;}
-.components p{position:relative; color:var(--primary-text-color); text-align: center;}
+.components li{display: inline-block; margin-top: 1rem;}
+.components p{position:relative; color:var(--primary-text-color); text-align: center; margin: 0;}
 
 .bg-blue-tile{background: #007ff0 url(../assets/tile.png); position:relative;}
 @media all and (min-width:40em){
