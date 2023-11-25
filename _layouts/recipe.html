@@ -146,7 +146,6 @@ layout: default
     <div class="sm-col-alt sm-col-12 px2 mb3 bg-lighten-2 page-break-before">
     {% for recipe in site.recipes %}
     {% if recipe.title == component %}
-      <h3 class="preffered-color center">{{recipe.title}}</h3>
 
       {% for image in recipe.image %}
       <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
@@ -158,6 +157,7 @@ layout: default
           {% endfor %}
         {% endif %}
       {% endfor %}
+      <h1 class="post-title center m1 sm-mt3">{{recipe.title}}</h1>
 
       <div class="px2 mt3 clearfix">
         <div class="sm-col-8 mx-auto center" itemprop="description">{{ recipe.content | markdownify }}</div>
