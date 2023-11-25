@@ -120,11 +120,6 @@ PRINT STYLES adapted from https://github.com/mmistakes/minimal-mistakes/blob/mas
     h2 + p,
     h3 + p { page-break-before: avoid; }
 
-    img {
-    page-break-after: auto;
-    page-break-before: auto;
-    page-break-inside: avoid;
-    }
 
     .container { max-width: 100%; }
 
