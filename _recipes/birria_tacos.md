@@ -29,30 +29,32 @@ ingredients:
 - a bunch of sea salt
 - a bunch of freshly ground black pepper
 - 2 tbsp hog lard (or butter)
-- 3 bay leavs
+- 3 bay leaves
 - 1 - 12 oz pack queso oaxaca cheese (or other cheese)
 - cilantro
 - 1 lime
 - tortillas
 
 directions:
-- Cut tomatoes into quarters.
-- bring to low boil. cook for 30-45 minutes until the vegetables/peppers are soft.
-- let it cool
-- put vegetables/peppers in blender and puree
-- cut angus chuck and ox tail into cubes (roughly 1.5 in cubes)
-- cover with sea salt and fresh ground black pepper, and mix thouroughy so all the meat is coated and seasoned
-- on a skillet, add hog lard
-- place meat in skillet and sear all sides, not cooking all the way through.
-- in a slowcooker, add meat, 1 diced onion, and puree of vegetables/peppers. add a cup of water to blender to rinse the remaining stuff and pour it into the slowcooker
-- get slowcooker up to high to a simmer and add bay leaves
-- let slowcooker go for 4 hours.
-- grate cheese in the meantime
-- take some of the oil off the top of the slowcooker (it is a deep maroon color) and put it in a seperate dish to dip tortillas in. 
-- take some of the gravy (the stuff in the slowcooker) and put it in a seperate bowl for dipping the tacos in. squeeze a lime into it, and add chopped cilantro and onion to make a dipping sauce.
-- pull some of the meat out for the taco and shredd it on a plate.
-- submerge tortilla in oil and lay it on hot grittle/skillet. add shredded beef, cheese, cilantro. fold over tortilla and let it start frying. fry both sides.
-- Plate tacos and serve with dipping sauce
+- Cut tomatoes and 1 onion into quarters.
+- To a large pot, add tomatoes, the onion you just cut, serrano peppers, garlic, Guajillo peppers, ancho chiles, paprika, salt, oregano, black pepper, cumin, can of chipotle peppers, and beef broth.
+- Bring to low boil, covered. Cook for 30-45 minutes until the vegetables/peppers are soft.
+- Let it cool.
+- Pour the contents of the pot into a blender and puree.
+- Cut angus chuck and ox tail into cubes (roughly 1.5 in cubes) and put into a large bowl for seasoning.
+- Cover the angus chuck and ox tail with sea salt and fresh ground black pepper, and mix thoroughly so all the meat is coated and seasoned.
+- On a skillet, add hog lard (2 tbsp).
+- Place meat in skillet and sear all sides, not cooking all the way through.
+- Dice 1 onion.
+- In a slowcooker, add meat, 1 diced onion, and the puree of vegetables/peppers from the blender. Add a cup of water to blender to rinse the remaining stuff and pour it into the slowcooker.
+- Set the slowcooker to high and get it up to a simmer.
+- Add bay leaves, then let slowcooker cook for 4 hours on high.
+- Grate the cheese and dice the last onion in the meantime.
+- After the slowcooker is finished, take some of the oil off the top of the slowcooker (it is a deep maroon color) and put it in a separate dish to dip tortillas in. 
+- Take some of the gravy from the slowcooker and put it in a separate bowl for dipping the tacos in. Add the juice of one lime to it, and add chopped cilantro and some diced onion to make a dipping sauce.
+- Pull the meat out of the slowcooker and shred it on a plate.
+- One at a time, submerge each tortilla in the oil (that you set aside earlier) and lay it on hot grittle/skillet. Add shredded beef, cheese, cilantro on top of the tortilla. Fold the tortilla over and let it start frying. Fry both sides.
+- Plate tacos and serve with dipping sauce, limes, and any extra cilantro and onion you have.
 
 notes:
 - 
