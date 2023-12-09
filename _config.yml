@@ -21,8 +21,8 @@ colors:
   light-mode:
     background-color: "#f6efec"
     primary-text-color: "#000"
-    secondary-text-color: "#593361"
-    link-color: "#335b47"
+    secondary-text-color: "#714e79"
+    link-color: "#418362"
     menu-color: "#c7a8cc"
     accent-color: "#cad5c8"
 
