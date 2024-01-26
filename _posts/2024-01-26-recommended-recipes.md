@@ -6,7 +6,7 @@ author: pipkickflip
 
 This is one of my favorite (and free) recipe books! If you find that cooking is exhausting, but you need to eat and want to have some variations in your diet, then check out this book!
 
-[The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+[The Sad Bastard Cookbook (from traumbooks.itch.io)](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 
 ![Cover of "The Sad Bastard Cookbook"](/images/thesadbastardcookbookcover.jpg)
 
