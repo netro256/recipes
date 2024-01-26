@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Book of Lazy Recipes I Recommend"
+title:  "A Book of Easy Recipes I Recommend"
 author: pipkickflip
 ---
 
