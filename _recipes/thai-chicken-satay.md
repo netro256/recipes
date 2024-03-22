@@ -17,7 +17,7 @@ ingredients:
 - 2 tsp red curry paste
 - 1 tsp salt
 - 1/4 cup coconut milk (the thick cream kind) (one 14 oz can for chicken and sauce)
-- 1.5 tbsp cooking oil (canola or other)
+- 1 1/2 tbsp cooking oil (canola or other)
 - 2 tbsp peanuts finely chopped (optional)
 - Lime wedges (optional)
 - Coriander / cilantro leaves (optional)

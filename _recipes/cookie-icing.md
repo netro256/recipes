@@ -18,6 +18,7 @@ ingredients:
 
 directions:
 - Mix ingredients together.
+- Apply quickly before mixture sets.
 
 
 notes:

@@ -12,18 +12,18 @@ cooking_time:
 
 ingredients:
 - 4 egg yolks
-- 3 1/2 tablespoons lemon juice
-- 1 tablespoon water
-- 1/8 teaspoon Worcestershire sauce
+- 3 1/2 tbsp lemon juice
+- 1 tbsp water
+- 1/8 tsp Worcestershire sauce
 - 1 pinch ground white pepper
-- 1 teaspoon hot water, or more as needed (Optional)
+- 1 tsp hot water, or more as needed (Optional)
 - 1 cup butter, melted
 - 1 pinch salt
 
 directions:
-- In the top of a double boiler over simmering water, whisk egg yolks, lemon juice, 1 tablespoon of water, Worcestershire sauce, and white pepper.
-- Add melted butter, 1 or 2 tablespoons at a time, while whisking yolks constantly.
-- If Hollandaise begins to get too thick, add a teaspoon or two of hot water. Continue whisking until all of the butter is incorporated.
+- In the top of a double boiler over simmering water, whisk egg yolks, lemon juice, 1 tbsp of water, Worcestershire sauce, and white pepper.
+- Add melted butter, 1 or 2 tbsp at a time, while whisking yolks constantly.
+- If Hollandaise begins to get too thick, add a tsp or two of hot water. Continue whisking until all of the butter is incorporated.
 - Whisk in salt, then remove top of double boiler from heat. Place a lid over the sauce to keep warm.
 
 notes:

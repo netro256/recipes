@@ -11,12 +11,12 @@ preparation_time: 10 minutes
 cooking_time:
 
 ingredients:
-- 1/4 teaspoon salt
-- 1 teaspoon distilled white vinegar
+- 1/4 tsp salt
+- 1 tsp distilled white vinegar
 - 8 eggs
 - 8 strips Canadian-style bacon
 - 4 English muffins, split
-- 2 tablespoons butter, softened
+- 2 tbsp butter, softened
 
 directions:
 - Make hollandaise sauce first, instructions below.

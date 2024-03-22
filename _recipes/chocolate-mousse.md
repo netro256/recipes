@@ -12,7 +12,7 @@ cooking_time:
 
 ingredients:
 - 8 oz bittersweet chocolate
-- 3 oz or 6 Tbsp butter in small cubes
+- 6 Tbsp butter, in small cubes
 - 4 eggs (room temperature, separated)
 - 1/4 cup sugar
 - 1 cup heavy whipping cream
