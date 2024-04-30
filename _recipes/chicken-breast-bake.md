@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Chicken Breast (Baked)"
-image: chicken-breast-air-fryer.jpg
-imagecredit: https://kristineskitchenblog.com/air-fryer-chicken-breast/
+image: chicken-breast-baked.jpg
+imagecredit: 
 tags: main
 
 yield: 2-16 servings
@@ -28,7 +28,7 @@ directions:
 
 notes: 
 - You can keep this chicken in your fridge for 3 days, safely. If you want to push it, you can go for 5 days. I have done that just fine.
-- Invest in a meat probe thermometer to ensure your chicken is at an internal temperature is 165°F. I cannot overstate how important it is to cook chicken all the way through to prevent food poisoning.
+- Invest in a meat probe thermometer to ensure your chicken is at an internal temperature is 165°F. I cannot overstate how important it is to cook chicken all the way through to prevent food poisoning. You can go above this temperature, but be careful not to burn the chicken!
 - If you want a mix of spices to make your own chicken rub, look at the [Chicken Breast (Air Fryer)](chicken-breast-air-fryer) recipe for a mix!
 
 components:
